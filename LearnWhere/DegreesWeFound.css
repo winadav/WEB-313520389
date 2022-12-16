@@ -1,0 +1,84 @@
+*{
+padding: 0;
+margin: 0;
+}
+body { background-color: #F0E4C8;
+}
+#logoImg {
+margin-top: 1%;
+margin-left: 1%;
+width: 72%;
+height: 19%;
+}
+
+h1 {
+font-weight: bolder;
+font-size: 60px;
+    display: inline-flex;
+    margin-left: 32%;
+
+}
+
+#middle-section{
+margin-top: 1%;
+display: flex;
+justify-content: center;
+}
+
+table{
+  width: 70%;
+
+}
+th{
+    text-align: center;
+    font-family: "Times New Roman";
+    font-weight: bold;
+    font-size: 22px;
+}
+table,th,td{
+    border: 1px solid #000;
+    justify-content: center;
+
+
+}
+th{
+    background-color: coral;
+}
+td{
+    background-color: peachpuff;
+
+}
+th,td{
+padding: 20px;
+}
+button {
+border: none;
+color: black;
+padding: 10px;
+text-align: center;
+font-weight: bolder;
+font-size: 15px;
+border-radius: 30px;
+cursor: pointer;
+transition: opacity 0.15s, box-shadow 0.15s;
+}
+#buttons{
+display: flex;
+}
+.backButton{
+margin-left: 3%;
+background-color: coral;
+}
+button:hover{
+opacity: 0.8;
+border-color: rgba(12,5,10,0.29);
+box-shadow: 5px 5px 10px rgba(0,0,0,0.4);
+}
+button:active{
+opacity: 0.7;
+}
+
+#end-section{
+margin-top: 1%;
+justify-content: center;
+}

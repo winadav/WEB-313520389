@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+   <head>
+      <meta charset="UTF-8">
+      <title>Degrees Search Page</title>
+      <link rel="stylesheet" href="DegreesSearchPage.css">
+   </head>
+   <body>
+      <header>
+         <h1>Degree Search</h1>
+      </header>
+      <nav>
+         <img class="logoImg" src="logoPic1.png" alt = "">
+         <div class="icon-bar">
+            <a href="HomePage.html"><i class="fa fa-home"></i></a>
+            <a class="active" href="DegreesSearchPage.html"><i class="fa fa-search"></i></a>
+            <a href="RanksPage.html"><i class="fa fa-star"></i></a>
+            <a  href="EmploymentPage.html"><i class="fa fa-dollar"></i></a>
+            <a href="AboutUsPage.html"><i class="fa fa-book"></i></a>
+            <a href="LoginPage.html"><i class="fa fa-key"></i></a>
+         </div>
+      </nav>
+      <main>
+         <div id = "labels">
+            <label>Degree Type:</label>
+            <input type="checkbox" id="Bachelor" name="Bachelor" value="Bachelor">
+            <label for="Bachelor">Bachelor</label>
+            <input type="checkbox" id="Master" name="Master" value="Master">
+            <label for="Master">Master</label>
+            <br><br>
+            <label for="DegreeName">Degree Name:</label>
+            <select name="DegreeName" id="DegreeName">
+               <option value="Industrial Engineering and Management">Industrial Engineering and Management</option>
+               <option value="Electrical Engineering">Electrical Engineering</option>
+               <option value="Mechanical Engineering">Mechanical Engineering</option>
+            </select>
+            <br><br>
+            <label for="Area">Area:</label>
+            <select name="Area" id="Area">
+               <option value="Center">Center</option>
+               <option value="South">South</option>
+               <option value="North">North</option>
+            </select>
+            <br><br>
+            <label for="CostRange">Cost Range:</label>
+            <input type="range" value="0" max="50000" class="slider" id="CostRange" oninput="num.value = this.value" >
+            <output id="num">0</output>₪
+            <br><br>
+            <label>Degree Length:</label>
+            <select name="DegreeLength" id="DegreeLength">
+               <option value="1">1</option>
+               <option value="2">2</option>
+               <option value="3">3</option>
+               <option value="4">4</option>
+               <option value="5">5</option>
+               <option value="6">6</option>
+               <option value="7">7+</option>
+            </select>
+            <br><br>
+         </div>
+      </main>
+      <aside>
+         <img class="pagePic" src="degreeSearchPic.png" alt="" >
+      </aside>
+      <footer>
+         <a href="DegreesWeFound.html"> <button class="button searchButton">Search</button></a>
+      </footer>
+
+   </body>
+</html>

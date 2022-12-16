@@ -1,0 +1,110 @@
+header, nav, main, aside, footer {
+    background-color: #F0E4C8;
+}
+
+body {
+    background-color: #F0E4C8;
+    display: grid;
+    height: 545px;
+    grid-template-areas:
+    'nav header sidebar'
+    'nav content sidebar'
+    'nav footer sidebar';
+    grid-template-columns: 0.4fr 1.5fr 1fr;
+    grid-template-rows: auto;
+    gap: 10px;
+
+}
+header{
+    grid-area: header;
+    text-align: center;
+}
+main{
+    grid-area: content;
+    text-align: center;
+
+}
+aside {
+    grid-area: sidebar;
+    justify-content: center;
+
+
+}
+nav {
+    grid-area: nav;
+}
+footer {
+    grid-area: footer;
+    text-align: center;
+}
+
+h1{
+font-size: 40px;
+}
+
+
+.icon-bar {
+  width: 90px;
+margin-top: 15%; /*icon bar up and down*/
+  background-color: #555;
+}
+
+.icon-bar a {
+  display: block;
+  text-align: center;
+  padding: 16px;
+  transition: all 0.3s ease;
+  color: white;
+  font-size: 36px;
+}
+
+.icon-bar a:hover {
+  background-color: #000;
+}
+
+.active {
+  background-color: #F0E4C8;
+}
+
+
+/* The slider itself */
+.slider {
+  appearance: none;
+  width: 20%;
+  height: 5px;
+  background: white;
+  outline: none;
+  display: inline-flex;
+  opacity: 0.7;
+  transition: opacity .2s;
+
+
+}
+
+/* Mouse-over effects */
+.slider:hover {
+  opacity: 1; /* Fully shown on mouse-over */
+}
+
+/* The slider handle (use -webkit- (Chrome, Opera, Safari, Edge) and -moz- (Firefox) to override default look) */
+.slider::-webkit-slider-thumb {
+  -webkit-appearance: none; /* Override default look */
+  appearance: none;
+  width: 25px; /* Set a specific slider handle width */
+  height: 25px; /* Slider handle height */
+  background: darkgray;
+  cursor: pointer; /* Cursor on hover */
+    border-radius: 40%;
+}
+
+.slider::-moz-range-thumb {
+  width: 25px; /* Set a specific slider handle width */
+  height: 25px; /* Slider handle height */
+  background: #04AA6D; /* Green background */
+  cursor: pointer; /* Cursor on hover */
+}
+
+#aboutUsPic{
+    margin-top: 40%;
+    margin-left: 10%;
+}

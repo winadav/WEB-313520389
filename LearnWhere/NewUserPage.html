@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+   <head>
+      <meta charset="UTF-8">
+      <title>Create A New User</title>
+      <link rel="stylesheet" href="NewUserPage.css">
+   </head>
+   <body>
+      <br>
+      <header>
+         <h1>Create a User</h1>
+      </header>
+      <nav>
+         <div id = "logoImg">
+            <img src="logoPic1.png" alt = "">
+         </div>
+         <a href="LoginPage.html"><button class="backBtn">Back To Login Page</button></a>
+      </nav>
+      <main>
+         <form id ="newUserForm">
+            <label for="Username" class="labels">Username<sup>*</sup>:</label>
+            <input type="text" id="Username" name="Username" class="texBox">
+            <span class="msgUsernameEmp"></span>
+            <span class="msgUsernameExist"></span>
+            <br><br>
+            <label for="Password" class="labels">Password<sup>*</sup>:</label>
+            <input type="text" id="Password" name="Password" class="texBox">
+            <span class="msgPasswordEmp"></span>
+            <br><br>
+            <label for="Email" class="labels">Email<sup>*</sup>:</label>
+            <input type="text" id="Email" name="Email" class="texBox">
+            <span class="msgEmailEmp"></span>
+            <span class="msgEmailExist"></span>
+            <br><br>
+            <label for="FirstName" class="labels">First Name:</label>
+            <input type="text" id="FirstName" name="FirstName" class="texBox" >
+            <br><br>
+            <label for="LastName" class="labels">Last Name:</label>
+            <input type="text" id="LastName" name="LastName" class="texBox">
+            <br><br>
+            <label for="PhoneNum" class="labels">Phone Number:</label>
+            <input type="text" id="PhoneNum" name="PhoneNum" class="texBox">
+            <br><br>
+            <input type="submit" value="Create" class="createButton">
+         </form>
+         <ul class="users"></ul>
+      </main>
+      <aside>
+         <div id = "UserImage">
+            <img src="createUserPic.png" alt="Student Cap Pic" >
+         </div>
+         <div id = "text">
+            <sup>*</sup>Mandatory Field
+         </div>
+      </aside>
+      <script src="NewUserPage.js"> </script>
+   </body>
+</html>

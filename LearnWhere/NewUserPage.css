@@ -1,0 +1,165 @@
+header, nav, main, aside, footer {
+    background-color: #F0E4C8;
+}
+body {
+    background-color: #F0E4C8;
+    display: grid;
+    height: 545px;
+    grid-template-areas:
+    'nav header sidebar'
+    'nav content sidebar'
+    'nav content sidebar';
+    grid-template-columns: 0.4fr 2fr 1fr;
+    grid-template-rows: auto;
+    gap: 10px;
+
+}
+header{
+    grid-area: header;
+    text-align: center;
+}
+main{
+    grid-area: content;
+    text-align: start;
+
+}
+aside {
+    grid-area: sidebar;
+    justify-content: center;
+
+
+}
+nav {
+    grid-area: nav;
+}
+footer {
+    grid-area: footer;
+    text-align: center;
+}
+#logoImg {
+margin-top: 1%;
+margin-left: 1%;
+width: 60%;
+height: 19%;
+}
+h1 {
+font-weight: bolder;
+font-size: 60px;
+display: flex;
+justify-content: center;
+}
+
+#UserImage {
+/*margin-left: 17%;*/
+padding-top: 50%;
+width: 10%;
+}
+
+#Username {
+border-color: #F0E4C8;
+border-radius: 20px;
+padding: 4px;
+margin-left: 55px;
+}
+#Password {
+border-color: #F0E4C8;
+border-radius: 20px;
+padding: 4px;
+margin-left: 60px;
+}
+#Email{
+border-color: #F0E4C8;
+border-radius: 20px;
+padding: 4px;
+margin-left: 88px;
+}
+#FirstName{
+border-color: #F0E4C8;
+border-radius: 20px;
+padding: 4px;
+margin-left: 55px;
+}
+#LastName{
+border-color: #F0E4C8;
+border-radius: 20px;
+padding: 4px;
+margin-left: 60px;
+}
+#PhoneNum{
+border-color: #F0E4C8;
+border-radius: 20px;
+padding: 4px;
+margin-left: 22px;
+}
+button {
+border: none;
+color: black;
+padding: 15px;
+text-align: center;
+font-weight: bolder;
+font-size: 20px;
+border-radius: 30px;
+cursor: pointer;
+transition: opacity 0.15s, box-shadow 0.15s;
+}
+#buttons{
+display: flex;
+}
+
+.createButton{
+margin-left: 35%;
+background-color: indianred;
+    border: none;
+color: black;
+padding: 15px;
+text-align: center;
+font-weight: bolder;
+font-size: 20px;
+border-radius: 30px;
+cursor: pointer;
+transition: opacity 0.15s, box-shadow 0.15s;
+}
+.backBtn{
+    background-color: peru;
+    margin-top: 190%;
+    font-size: 15px;
+}
+button:hover{
+opacity: 0.8;
+border-color: rgba(12,5,10,0.29);
+box-shadow: 5px 5px 10px rgba(0,0,0,0.4);
+}
+button:active{
+opacity: 0.7;
+}
+#text{
+font-style: italic;
+font-weight: bold;
+margin-left: 25%;
+margin-top: 2%;
+}
+
+.error {
+    color: darkred;
+    font-style: italic;
+    font-weight: bolder;
+    font-size: 15px;
+
+}
+#newUserForm{
+margin-left: 20%;
+}
+.msg{
+
+}
+
+.labels{
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+}
+.texBox{
+    font-size:15px;
+    font-style: italic;
+}
+
