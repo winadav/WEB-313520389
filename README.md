@@ -1,2 +1,0 @@
-# LearnWhere
-Nadav Levi
