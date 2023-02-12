@@ -1,0 +1,616 @@
+DegreeName,DegreeType,Institution,Location,District,Cost,CombainScore,PsychometricScore,Link
+Arts,Bachelor's degree,Ben Gurion University of the Negev,Beer Sheva,South,12200,450,450,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Archaeology,Bachelor's degree,Ben Gurion University of the Negev,Beer Sheva,South,12500,400,430,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Geography and environmental development,Bachelor's degree,Ben Gurion University of the Negev,Beer Sheva,South,11780,520,500,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+General history,Bachelor's degree,Ben Gurion University of the Negev,Beer Sheva,South,12000,450,450,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+History of the people of Israel,Bachelor's degree,Ben Gurion University of the Negev,Beer Sheva,South,12000,450,450,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Biomedical engineering,Bachelor's degree,Ben Gurion University of the Negev,Beer Sheva,South,11870,525,550,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Chemical engineering,Bachelor's degree,Ben Gurion University of the Negev,Beer Sheva,South,11900,500,550,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Biotechnology engineering,Bachelor's degree,Ben Gurion University of the Negev,Beer Sheva,South,11500,510,550,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Structural engineering,Bachelor's degree,Ben Gurion University of the Negev,Beer Sheva,South,12100,520,550,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Materials engineering,Bachelor's degree,Ben Gurion University of the Negev,Beer Sheva,South,12160,500,550,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Electrical and Computer Engineering,Bachelor's degree,Ben Gurion University of the Negev,Beer Sheva,South,12200,537,600,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Computer engineering,Bachelor's degree,Ben Gurion University of the Negev,Beer Sheva,South,12500,537,600,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Mechanical engineering,Bachelor's degree,Ben Gurion University of the Negev,Beer Sheva,South,11780,520,550,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Data system engineering,Bachelor's degree,Ben Gurion University of the Negev,Beer Sheva,South,12000,530,550,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Communication systems engineering,Bachelor's degree,Ben Gurion University of the Negev,Beer Sheva,South,12000,530,600,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Software engineering,Bachelor's degree,Ben Gurion University of the Negev,Beer Sheva,South,11870,535,600,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Industrial Engineering and Management,Bachelor's degree,Ben Gurion University of the Negev,Beer Sheva,South,11900,505,550,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Education,Bachelor's degree,Ben Gurion University of the Negev,Beer Sheva,South,11500,550,550,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Chemistry,Bachelor's degree,Ben Gurion University of the Negev,Beer Sheva,South,12100,600,600,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Economics specializing in accounting,Bachelor's degree,Ben Gurion University of the Negev,Beer Sheva,South,12160,500,620,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Economics specialization in business administration,Bachelor's degree,Ben Gurion University of the Negev,Beer Sheva,South,12200,450,600,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Middle Eastern studies,Bachelor's degree,Ben Gurion University of the Negev,Beer Sheva,South,12500,530,500,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+State of Israel studies,Bachelor's degree,Ben Gurion University of the Negev,Beer Sheva,South,11780,550,450,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Humanities and social sciences - multidisciplinary,Bachelor's degree,Ben Gurion University of the Negev,Beer Sheva,South,12000,450,530,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Social sciences - multidisciplinary,Bachelor's degree,Ben Gurion University of the Negev,Beer Sheva,South,12000,450,550,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Humanities - multidisciplinary,Bachelor's degree,Ben Gurion University of the Negev,Beer Sheva,South,11870,600,450,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Hebrew language,Bachelor's degree,Ben Gurion University of the Negev,Beer Sheva,South,11900,650,450,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Geological and environmental sciences,Bachelor's degree,Ben Gurion University of the Negev,Beer Sheva,South,11500,585,650,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Behavioral sciences,Bachelor's degree,Ben Gurion University of the Negev,Beer Sheva,South,12100,760,585,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Life science,Bachelor's degree,Ben Gurion University of the Negev,Beer Sheva,South,12160,760,660,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Computer science,Bachelor's degree,Ben Gurion University of the Negev,Beer Sheva,South,12200,600,660,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Computer science and bioinformatics,Bachelor's degree,Ben Gurion University of the Negev,Beer Sheva,South,12500,450,600,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Medical laboratory sciences,Bachelor's degree,Ben Gurion University of the Negev,Beer Sheva,South,11780,400,450,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Judaism studies,Bachelor's degree,Ben Gurion University of the Negev,Beer Sheva,South,12000,760,430,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Bible and Ancient Middle East,Bachelor's degree,Ben Gurion University of the Negev,Beer Sheva,South,12000,600,660,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Mathematics,Bachelor's degree,Ben Gurion University of the Negev,Beer Sheva,South,11870,620,600,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Mathematics and computer science,Bachelor's degree,Ben Gurion University of the Negev,Beer Sheva,South,11900,520,620,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+One-departmental management and entrepreneurship,Bachelor's degree,Ben Gurion University of the Negev,Beer Sheva,South,11500,520,520,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Bi-departmental management,Bachelor's degree,Ben Gurion University of the Negev,Beer Sheva,South,12100,630,520,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Hotel and tourism management,Bachelor's degree,Ben Gurion University of the Negev,Beer Sheva,South,12160,550,630,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Health systems management,Bachelor's degree,Ben Gurion University of the Negev,Beer Sheva,South,12200,620,550,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Information system management,Bachelor's degree,Ben Gurion University of the Negev,Beer Sheva,South,12500,550,620,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Sociology Anthropology two departments,Bachelor's degree,Ben Gurion University of the Negev,Beer Sheva,South,11780,450,550,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Sociology Anthropology and Management,Bachelor's degree,Ben Gurion University of the Negev,Beer Sheva,South,12000,640,550,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Nursing,Bachelor's degree,Ben Gurion University of the Negev,Beer Sheva,South,12000,550,450,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Foreign literature and linguistics,Bachelor's degree,Ben Gurion University of the Negev,Beer Sheva,South,11870,650,550,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Hebrew literature,Bachelor's degree,Ben Gurion University of the Negev,Beer Sheva,South,11900,500,550,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Social work,Bachelor's degree,Ben Gurion University of the Negev,Beer Sheva,South,11500,630,650,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Politics and Government,Bachelor's degree,Ben Gurion University of the Negev,Beer Sheva,South,12100,650,500,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Physiotherapy,Bachelor's degree,Ben Gurion University of the Negev,Beer Sheva,South,12160,650,600,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Philosophy,Bachelor's degree,Ben Gurion University of the Negev,Beer Sheva,South,12200,680,650,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Physics,Bachelor's degree,Ben Gurion University of the Negev,Beer Sheva,South,12500,737,650,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Two-departmental psychology,Bachelor's degree,Ben Gurion University of the Negev,Beer Sheva,South,11780,0,600,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Psychology and Management,Bachelor's degree,Ben Gurion University of the Negev,Beer Sheva,South,12000,0,680,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Pharmacy,Bachelor's degree,Ben Gurion University of the Negev,Beer Sheva,South,12000,0,540,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Medicine,Bachelor's degree,Ben Gurion University of the Negev,Beer Sheva,South,11870,0,730,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Emergency medicine,Bachelor's degree,Ben Gurion University of the Negev,Beer Sheva,South,11900,0,0,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+The art of theater,Bachelor's degree,Tel Aviv University,Tel Aviv,Center,11500,0,450,https://www.tau.ac.il/
+Biology double major,Bachelor's degree,Tel Aviv University,Tel Aviv,Center,12100,582,700,https://www.tau.ac.il/
+Biology with an emphasis on ecology and evolution,Bachelor's degree,Tel Aviv University,Tel Aviv,Center,12160,610,0,https://www.tau.ac.il/
+Biology with an emphasis on biotechnology,Bachelor's degree,Tel Aviv University,Tel Aviv,Center,12200,660,0,https://www.tau.ac.il/
+Biology with an emphasis on neuroscience,Bachelor's degree,Tel Aviv University,Tel Aviv,Center,12500,705,730,https://www.tau.ac.il/
+Biology with Chemistry,Bachelor's degree,Tel Aviv University,Tel Aviv,Center,11780,610,0,https://www.tau.ac.il/
+Biology with Physics,Bachelor's degree,Tel Aviv University,Tel Aviv,Center,12000,660,0,https://www.tau.ac.il/
+Extended biology,Bachelor's degree,Tel Aviv University,Tel Aviv,Center,12000,580,727,https://www.tau.ac.il/
+Geophysics and Planetary Sciences,Bachelor's degree,Tel Aviv University,Tel Aviv,Center,11870,610,0,https://www.tau.ac.il/
+Communication disorders,Bachelor's degree,Tel Aviv University,Tel Aviv,Center,11900,640,650,https://www.tau.ac.il/
+Biomedical engineering,Bachelor's degree,Tel Aviv University,Tel Aviv,Center,11500,675,620,https://www.tau.ac.il/
+Mechanical engineering,Bachelor's degree,Tel Aviv University,Tel Aviv,Center,12100,640,760,https://www.tau.ac.il/
+Electrical engineering,Bachelor's degree,Tel Aviv University,Tel Aviv,Center,12160,690,760,https://www.tau.ac.il/
+Industrial Engineering and Management,Bachelor's degree,Tel Aviv University,Tel Aviv,Center,12200,665,760,https://www.tau.ac.il/
+Electrical and electronics engineering and computer science,Bachelor's degree,Tel Aviv University,Tel Aviv,Center,12500,730,0,https://www.tau.ac.il/
+Electrical and electronics engineering and physics,Bachelor's degree,Tel Aviv University,Tel Aviv,Center,11780,695,0,https://www.tau.ac.il/
+Education for the hearing impaired,Bachelor's degree,Tel Aviv University,Tel Aviv,Center,12000,575,0,https://www.tau.ac.il/
+Accounting,Bachelor's degree,Tel Aviv University,Tel Aviv,Center,12000,629,727,https://www.tau.ac.il/
+Educational counseling and special education,Bachelor's degree,Tel Aviv University,Tel Aviv,Center,11870,556,727,https://www.tau.ac.il/
+Chemistry with physics,Bachelor's degree,Tel Aviv University,Tel Aviv,Center,11900,650,0,https://www.tau.ac.il/
+Extended chemistry,Bachelor's degree,Tel Aviv University,Tel Aviv,Center,11500,620,0,https://www.tau.ac.il/
+Economy,Bachelor's degree,Tel Aviv University,Tel Aviv,Center,12100,620,727,https://www.tau.ac.il/
+Middle Eastern studies,Bachelor's degree,Tel Aviv University,Tel Aviv,Center,12160,500,450,https://www.tau.ac.il/
+East asian studies,Bachelor's degree,Tel Aviv University,Tel Aviv,Center,12200,500,450,https://www.tau.ac.il/
+Women's and gender studies,Bachelor's degree,Tel Aviv University,Tel Aviv,Center,12500,525,0,https://www.tau.ac.il/
+Life sciences and medicine,Bachelor's degree,Tel Aviv University,Tel Aviv,Center,11780,670,0,https://www.tau.ac.il/
+Life sciences with an emphasis on bioinformatics,Bachelor's degree,Tel Aviv University,Tel Aviv,Center,12000,730,0,https://www.tau.ac.il/
+Political science,Bachelor's degree,Tel Aviv University,Tel Aviv,Center,12000,545,727,https://www.tau.ac.il/
+Computer science and mathematics,Bachelor's degree,Tel Aviv University,Tel Aviv,Center,11870,730,0,https://www.tau.ac.il/
+Computer science and statistics,Bachelor's degree,Tel Aviv University,Tel Aviv,Center,11900,730,0,https://www.tau.ac.il/
+Computer science and bioinformatics,Bachelor's degree,Tel Aviv University,Tel Aviv,Center,11500,730,0,https://www.tau.ac.il/
+Extended computer science,Bachelor's degree,Tel Aviv University,Tel Aviv,Center,12100,730,0,https://www.tau.ac.il/
+Humanities,Bachelor's degree,Tel Aviv University,Tel Aviv,Center,12160,500,450,https://www.tau.ac.il/
+Music,Bachelor's degree,Tel Aviv University,Tel Aviv,Center,12200,0,450,https://www.tau.ac.il/
+Laws,Bachelor's degree,Tel Aviv University,Tel Aviv,Center,12500,655,600,https://www.tau.ac.il/
+Mathematics,Bachelor's degree,Tel Aviv University,Tel Aviv,Center,11780,645,0,https://www.tau.ac.il/
+Mathematics and physics,Bachelor's degree,Tel Aviv University,Tel Aviv,Center,12000,680,0,https://www.tau.ac.il/
+Mathematics major physics secondary,Bachelor's degree,Tel Aviv University,Tel Aviv,Center,12000,680,0,https://www.tau.ac.il/
+Mathematics and extended divisions,Bachelor's degree,Tel Aviv University,Tel Aviv,Center,11870,662,750,https://www.tau.ac.il/
+Management,Bachelor's degree,Tel Aviv University,Tel Aviv,Center,11900,629,727,https://www.tau.ac.il/
+Sociology and Anthropology,Bachelor's degree,Tel Aviv University,Tel Aviv,Center,11500,525,727,https://www.tau.ac.il/
+Nursing basic program,Bachelor's degree,Tel Aviv University,Tel Aviv,Center,12100,540,540,https://www.tau.ac.il/
+Nursing for those with a certified nurse certificate,Bachelor's degree,Tel Aviv University,Tel Aviv,Center,12160,0,500,https://www.tau.ac.il/
+Statistics and extended performance research,Bachelor's degree,Tel Aviv University,Tel Aviv,Center,12200,650,727,https://www.tau.ac.il/
+Statistics and performance research double major,Bachelor's degree,Tel Aviv University,Tel Aviv,Center,12500,650,727,https://www.tau.ac.il/
+Social work,Bachelor's degree,Tel Aviv University,Tel Aviv,Center,11780,570,727,https://www.tau.ac.il/
+Physiotherapy,Bachelor's degree,Tel Aviv University,Tel Aviv,Center,12000,600,620,https://www.tau.ac.il/
+Physics and astronomy,Bachelor's degree,Tel Aviv University,Tel Aviv,Center,12000,660,0,https://www.tau.ac.il/
+Psychology,Bachelor's degree,Tel Aviv University,Tel Aviv,Center,11870,660,727,https://www.tau.ac.il/
+Psychology with an emphasis on neuroscience,Bachelor's degree,Tel Aviv University,Tel Aviv,Center,11900,705,727,https://www.tau.ac.il/
+Dual-channel/extended cinema and television,Bachelor's degree,Tel Aviv University,Tel Aviv,Center,11500,450,0,https://www.tau.ac.il/
+Medicine,Bachelor's degree,Tel Aviv University,Tel Aviv,Center,12100,0,700,https://www.tau.ac.il/
+Dentistry,Bachelor's degree,Tel Aviv University,Tel Aviv,Center,12160,690,640,https://www.tau.ac.il/
+Occupational therapy,Bachelor's degree,Tel Aviv University,Tel Aviv,Center,12200,615,600,https://www.tau.ac.il/
+A multidisciplinary program in the arts,Bachelor's degree,Tel Aviv University,Tel Aviv,Center,12500,460,727,https://www.tau.ac.il/
+The history of art,Bachelor's degree,Tel Aviv University,Tel Aviv,Center,11780,0,450,https://www.tau.ac.il/
+Communication,Bachelor's degree,Tel Aviv University,Tel Aviv,Center,12000,540,727,https://www.tau.ac.il/
+The art of theater,Bachelor's degree,Bar Ilan University,Ramat Gan,Center,12000,500,550,https://www.biu.ac.il/
+Biology double major,Bachelor's degree,Bar Ilan University,Ramat Gan,Center,11870,510,550,https://www.biu.ac.il/
+Biology with an emphasis on ecology and evolution,Bachelor's degree,Bar Ilan University,Ramat Gan,Center,11900,520,550,https://www.biu.ac.il/
+Biology with an emphasis on biotechnology,Bachelor's degree,Bar Ilan University,Ramat Gan,Center,11500,500,550,https://www.biu.ac.il/
+Biology with an emphasis on neuroscience,Bachelor's degree,Bar Ilan University,Ramat Gan,Center,12100,537,600,https://www.biu.ac.il/
+Biology with Chemistry,Bachelor's degree,Bar Ilan University,Ramat Gan,Center,12160,537,600,https://www.biu.ac.il/
+Biology with Physics,Bachelor's degree,Bar Ilan University,Ramat Gan,Center,12200,520,550,https://www.biu.ac.il/
+Extended biology,Bachelor's degree,Bar Ilan University,Ramat Gan,Center,12500,530,550,https://www.biu.ac.il/
+Geophysics and Planetary Sciences,Bachelor's degree,Bar Ilan University,Ramat Gan,Center,11780,530,600,https://www.biu.ac.il/
+Communication disorders,Bachelor's degree,Bar Ilan University,Ramat Gan,Center,12000,535,600,https://www.biu.ac.il/
+Biomedical engineering,Bachelor's degree,Bar Ilan University,Ramat Gan,Center,12000,505,550,https://www.biu.ac.il/
+Mechanical engineering,Bachelor's degree,Bar Ilan University,Ramat Gan,Center,11870,550,550,https://www.biu.ac.il/
+Electrical engineering,Bachelor's degree,Bar Ilan University,Ramat Gan,Center,11900,600,600,https://www.biu.ac.il/
+Industrial Engineering and Management,Bachelor's degree,Bar Ilan University,Ramat Gan,Center,11500,500,620,https://www.biu.ac.il/
+Electrical and electronics engineering and computer science,Bachelor's degree,Bar Ilan University,Ramat Gan,Center,12100,450,600,https://www.biu.ac.il/
+Electrical and electronics engineering and physics,Bachelor's degree,Bar Ilan University,Ramat Gan,Center,12160,530,500,https://www.biu.ac.il/
+Education for the hearing impaired,Bachelor's degree,Bar Ilan University,Ramat Gan,Center,12200,550,450,https://www.biu.ac.il/
+Accounting,Bachelor's degree,Bar Ilan University,Ramat Gan,Center,12500,450,530,https://www.biu.ac.il/
+Educational counseling and special education,Bachelor's degree,Bar Ilan University,Ramat Gan,Center,11780,450,550,https://www.biu.ac.il/
+Chemistry with physics,Bachelor's degree,Bar Ilan University,Ramat Gan,Center,12000,600,450,https://www.biu.ac.il/
+Extended chemistry,Bachelor's degree,Bar Ilan University,Ramat Gan,Center,12000,650,450,https://www.biu.ac.il/
+Economy,Bachelor's degree,Bar Ilan University,Ramat Gan,Center,11870,585,650,https://www.biu.ac.il/
+Middle Eastern studies,Bachelor's degree,Bar Ilan University,Ramat Gan,Center,11900,760,585,https://www.biu.ac.il/
+East asian studies,Bachelor's degree,Bar Ilan University,Ramat Gan,Center,11500,760,660,https://www.biu.ac.il/
+Women's and gender studies,Bachelor's degree,Bar Ilan University,Ramat Gan,Center,12100,600,660,https://www.biu.ac.il/
+Life sciences and medicine,Bachelor's degree,Bar Ilan University,Ramat Gan,Center,12160,450,600,https://www.biu.ac.il/
+Life sciences with an emphasis on bioinformatics,Bachelor's degree,Bar Ilan University,Ramat Gan,Center,12200,400,450,https://www.biu.ac.il/
+Political science,Bachelor's degree,Bar Ilan University,Ramat Gan,Center,12500,760,430,https://www.biu.ac.il/
+Computer science and mathematics,Bachelor's degree,Bar Ilan University,Ramat Gan,Center,11780,600,660,https://www.biu.ac.il/
+Computer science and statistics,Bachelor's degree,Bar Ilan University,Ramat Gan,Center,12000,620,600,https://www.biu.ac.il/
+Computer science and bioinformatics,Bachelor's degree,Bar Ilan University,Ramat Gan,Center,12000,520,620,https://www.biu.ac.il/
+Extended computer science,Bachelor's degree,Bar Ilan University,Ramat Gan,Center,11870,520,520,https://www.biu.ac.il/
+Humanities,Bachelor's degree,Bar Ilan University,Ramat Gan,Center,11900,630,520,https://www.biu.ac.il/
+Music,Bachelor's degree,Bar Ilan University,Ramat Gan,Center,11500,550,630,https://www.biu.ac.il/
+Laws,Bachelor's degree,Bar Ilan University,Ramat Gan,Center,12100,620,550,https://www.biu.ac.il/
+Mathematics,Bachelor's degree,Bar Ilan University,Ramat Gan,Center,12160,550,620,https://www.biu.ac.il/
+Mathematics and physics,Bachelor's degree,Bar Ilan University,Ramat Gan,Center,12200,450,550,https://www.biu.ac.il/
+Mathematics major physics secondary,Bachelor's degree,Bar Ilan University,Ramat Gan,Center,12500,640,550,https://www.biu.ac.il/
+Mathematics and extended divisions,Bachelor's degree,Bar Ilan University,Ramat Gan,Center,11780,550,450,https://www.biu.ac.il/
+Management,Bachelor's degree,Bar Ilan University,Ramat Gan,Center,12000,650,550,https://www.biu.ac.il/
+Sociology and Anthropology,Bachelor's degree,Bar Ilan University,Ramat Gan,Center,12000,500,550,https://www.biu.ac.il/
+Nursing basic program,Bachelor's degree,Bar Ilan University,Ramat Gan,Center,11870,630,650,https://www.biu.ac.il/
+Nursing for those with a certified nurse certificate,Bachelor's degree,Bar Ilan University,Ramat Gan,Center,11900,650,500,https://www.biu.ac.il/
+Statistics and extended performance research,Bachelor's degree,Bar Ilan University,Ramat Gan,Center,11500,650,600,https://www.biu.ac.il/
+Statistics and performance research double major,Bachelor's degree,Bar Ilan University,Ramat Gan,Center,12100,680,650,https://www.biu.ac.il/
+Social work,Bachelor's degree,Bar Ilan University,Ramat Gan,Center,12160,737,650,https://www.biu.ac.il/
+Physiotherapy,Bachelor's degree,Bar Ilan University,Ramat Gan,Center,12160,650,600,https://www.biu.ac.il/
+Physics and astronomy,Bachelor's degree,Bar Ilan University,Ramat Gan,Center,12200,500,680,https://www.biu.ac.il/
+Psychology,Bachelor's degree,Bar Ilan University,Ramat Gan,Center,12500,630,540,https://www.biu.ac.il/
+Psychology with an emphasis on neuroscience,Bachelor's degree,Bar Ilan University,Ramat Gan,Center,11780,650,730,https://www.biu.ac.il/
+Dual-channel/extended cinema and television,Bachelor's degree,Bar Ilan University,Ramat Gan,Center,12000,650,0,https://www.biu.ac.il/
+Medicine,Bachelor's degree,Bar Ilan University,Ramat Gan,Center,12000,680,450,https://www.biu.ac.il/
+Dentistry,Bachelor's degree,Bar Ilan University,Ramat Gan,Center,11870,582,700,https://www.biu.ac.il/
+Occupational therapy,Bachelor's degree,Bar Ilan University,Ramat Gan,Center,11900,610,0,https://www.biu.ac.il/
+A multidisciplinary program in the arts,Bachelor's degree,Bar Ilan University,Ramat Gan,Center,11500,660,0,https://www.biu.ac.il/
+The history of art,Bachelor's degree,Bar Ilan University,Ramat Gan,Center,12100,705,730,https://www.biu.ac.il/
+Communication,Bachelor's degree,Bar Ilan University,Ramat Gan,Center,12160,610,0,https://www.biu.ac.il/
+The art of theater,Bachelor's degree,The University of Haifa,Haifa,North,12200,660,0,https://www.haifa.ac.il/
+Biology double major,Bachelor's degree,The University of Haifa,Haifa,North,12500,580,727,https://www.haifa.ac.il/
+Biology with an emphasis on ecology and evolution,Bachelor's degree,The University of Haifa,Haifa,North,11780,610,0,https://www.haifa.ac.il/
+Biology with an emphasis on biotechnology,Bachelor's degree,The University of Haifa,Haifa,North,12000,640,650,https://www.haifa.ac.il/
+Biology with an emphasis on neuroscience,Bachelor's degree,The University of Haifa,Haifa,North,12000,675,620,https://www.haifa.ac.il/
+Biology with Chemistry,Bachelor's degree,The University of Haifa,Haifa,North,11870,640,760,https://www.haifa.ac.il/
+Biology with Physics,Bachelor's degree,The University of Haifa,Haifa,North,11900,690,760,https://www.haifa.ac.il/
+Extended biology,Bachelor's degree,The University of Haifa,Haifa,North,11500,665,760,https://www.haifa.ac.il/
+Geophysics and Planetary Sciences,Bachelor's degree,The University of Haifa,Haifa,North,12100,730,0,https://www.haifa.ac.il/
+Communication disorders,Bachelor's degree,The University of Haifa,Haifa,North,12160,695,0,https://www.haifa.ac.il/
+Biomedical engineering,Bachelor's degree,The University of Haifa,Haifa,North,12200,575,0,https://www.haifa.ac.il/
+Mechanical engineering,Bachelor's degree,The University of Haifa,Haifa,North,12500,629,727,https://www.haifa.ac.il/
+Electrical engineering,Bachelor's degree,The University of Haifa,Haifa,North,11780,556,727,https://www.haifa.ac.il/
+Industrial Engineering and Management,Bachelor's degree,The University of Haifa,Haifa,North,12000,650,0,https://www.haifa.ac.il/
+Electrical and electronics engineering and computer science,Bachelor's degree,The University of Haifa,Haifa,North,12000,620,0,https://www.haifa.ac.il/
+Electrical and electronics engineering and physics,Bachelor's degree,The University of Haifa,Haifa,North,11870,620,727,https://www.haifa.ac.il/
+Education for the hearing impaired,Bachelor's degree,The University of Haifa,Haifa,North,11900,500,450,https://www.haifa.ac.il/
+Accounting,Bachelor's degree,The University of Haifa,Haifa,North,11500,500,450,https://www.haifa.ac.il/
+Educational counseling and special education,Bachelor's degree,The University of Haifa,Haifa,North,12100,525,575,https://www.haifa.ac.il/
+Chemistry with physics,Bachelor's degree,The University of Haifa,Haifa,North,12160,670,629,https://www.haifa.ac.il/
+Extended chemistry,Bachelor's degree,The University of Haifa,Haifa,North,12200,730,556,https://www.haifa.ac.il/
+Economy,Bachelor's degree,The University of Haifa,Haifa,North,12500,545,650,https://www.haifa.ac.il/
+Middle Eastern studies,Bachelor's degree,The University of Haifa,Haifa,North,11780,730,620,https://www.haifa.ac.il/
+East asian studies,Bachelor's degree,The University of Haifa,Haifa,North,12000,730,620,https://www.haifa.ac.il/
+Women's and gender studies,Bachelor's degree,The University of Haifa,Haifa,North,12000,730,500,https://www.haifa.ac.il/
+Life sciences and medicine,Bachelor's degree,The University of Haifa,Haifa,North,11870,730,500,https://www.haifa.ac.il/
+Life sciences with an emphasis on bioinformatics,Bachelor's degree,The University of Haifa,Haifa,North,11900,500,450,https://www.haifa.ac.il/
+Political science,Bachelor's degree,The University of Haifa,Haifa,North,11500,0,450,https://www.haifa.ac.il/
+Computer science and mathematics,Bachelor's degree,The University of Haifa,Haifa,North,12100,655,600,https://www.haifa.ac.il/
+Computer science and statistics,Bachelor's degree,The University of Haifa,Haifa,North,12160,645,0,https://www.haifa.ac.il/
+Computer science and bioinformatics,Bachelor's degree,The University of Haifa,Haifa,North,12200,680,0,https://www.haifa.ac.il/
+Extended computer science,Bachelor's degree,The University of Haifa,Haifa,North,12500,680,0,https://www.haifa.ac.il/
+Humanities,Bachelor's degree,The University of Haifa,Haifa,North,11780,662,750,https://www.haifa.ac.il/
+Music,Bachelor's degree,The University of Haifa,Haifa,North,12000,629,727,https://www.haifa.ac.il/
+Laws,Bachelor's degree,The University of Haifa,Haifa,North,12000,525,727,https://www.haifa.ac.il/
+Mathematics,Bachelor's degree,The University of Haifa,Haifa,North,11870,540,540,https://www.haifa.ac.il/
+Mathematics and physics,Bachelor's degree,The University of Haifa,Haifa,North,11900,0,500,https://www.haifa.ac.il/
+Mathematics major physics secondary,Bachelor's degree,The University of Haifa,Haifa,North,11500,650,727,https://www.haifa.ac.il/
+Mathematics and extended divisions,Bachelor's degree,The University of Haifa,Haifa,North,12100,650,727,https://www.haifa.ac.il/
+Management,Bachelor's degree,The University of Haifa,Haifa,North,12160,570,727,https://www.haifa.ac.il/
+Sociology and Anthropology,Bachelor's degree,The University of Haifa,Haifa,North,12200,600,620,https://www.haifa.ac.il/
+Nursing basic program,Bachelor's degree,The University of Haifa,Haifa,North,12500,660,0,https://www.haifa.ac.il/
+Nursing for those with a certified nurse certificate,Bachelor's degree,The University of Haifa,Haifa,North,11780,660,727,https://www.haifa.ac.il/
+Statistics and extended performance research,Bachelor's degree,The University of Haifa,Haifa,North,12000,705,727,https://www.haifa.ac.il/
+Statistics and performance research double major,Bachelor's degree,The University of Haifa,Haifa,North,12000,450,0,https://www.haifa.ac.il/
+Social work,Bachelor's degree,The University of Haifa,Haifa,North,11870,0,700,https://www.haifa.ac.il/
+Physiotherapy,Bachelor's degree,The University of Haifa,Haifa,North,11900,690,640,https://www.haifa.ac.il/
+Physics and astronomy,Bachelor's degree,The University of Haifa,Haifa,North,11500,615,600,https://www.haifa.ac.il/
+Psychology,Bachelor's degree,The University of Haifa,Haifa,North,12100,460,727,https://www.haifa.ac.il/
+Psychology with an emphasis on neuroscience,Bachelor's degree,The University of Haifa,Haifa,North,12160,0,450,https://www.haifa.ac.il/
+Dual-channel/extended cinema and television,Bachelor's degree,The University of Haifa,Haifa,North,12200,540,727,https://www.haifa.ac.il/
+Medicine,Bachelor's degree,The University of Haifa,Haifa,North,12500,500,550,https://www.haifa.ac.il/
+Dentistry,Bachelor's degree,The University of Haifa,Haifa,North,11780,510,550,https://www.haifa.ac.il/
+Occupational therapy,Bachelor's degree,The University of Haifa,Haifa,North,12000,520,550,https://www.haifa.ac.il/
+A multidisciplinary program in the arts,Bachelor's degree,The University of Haifa,Haifa,North,12000,500,550,https://www.haifa.ac.il/
+The history of art,Bachelor's degree,The University of Haifa,Haifa,North,11870,537,600,https://www.haifa.ac.il/
+Communication,Bachelor's degree,The University of Haifa,Haifa,North,11900,537,600,https://www.haifa.ac.il/
+Arts,Bachelor's degree,The Hebrew University of Jerusalem,Jerusalem,Jerusalem ,11500,520,550,https://new.huji.ac.il/
+Archaeology,Bachelor's degree,The Hebrew University of Jerusalem,Jerusalem,Jerusalem ,12100,530,550,https://new.huji.ac.il/
+Geography and environmental development,Bachelor's degree,The Hebrew University of Jerusalem,Jerusalem,Jerusalem ,12160,530,600,https://new.huji.ac.il/
+General history,Bachelor's degree,The Hebrew University of Jerusalem,Jerusalem,Jerusalem ,12200,535,600,https://new.huji.ac.il/
+History of the people of Israel,Bachelor's degree,The Hebrew University of Jerusalem,Jerusalem,Jerusalem ,12500,505,550,https://new.huji.ac.il/
+Biomedical engineering,Bachelor's degree,The Hebrew University of Jerusalem,Jerusalem,Jerusalem ,11780,550,550,https://new.huji.ac.il/
+Chemical engineering,Bachelor's degree,The Hebrew University of Jerusalem,Jerusalem,Jerusalem ,12000,600,600,https://new.huji.ac.il/
+Biotechnology engineering,Bachelor's degree,The Hebrew University of Jerusalem,Jerusalem,Jerusalem ,12000,500,620,https://new.huji.ac.il/
+Structural engineering,Bachelor's degree,The Hebrew University of Jerusalem,Jerusalem,Jerusalem ,11870,450,600,https://new.huji.ac.il/
+Materials engineering,Bachelor's degree,The Hebrew University of Jerusalem,Jerusalem,Jerusalem ,11900,530,500,https://new.huji.ac.il/
+Electrical and Computer Engineering,Bachelor's degree,The Hebrew University of Jerusalem,Jerusalem,Jerusalem ,11500,550,450,https://new.huji.ac.il/
+Computer engineering,Bachelor's degree,The Hebrew University of Jerusalem,Jerusalem,Jerusalem ,12100,450,530,https://new.huji.ac.il/
+Mechanical engineering,Bachelor's degree,The Hebrew University of Jerusalem,Jerusalem,Jerusalem ,12160,450,550,https://new.huji.ac.il/
+Data system engineering,Bachelor's degree,The Hebrew University of Jerusalem,Jerusalem,Jerusalem ,12200,600,450,https://new.huji.ac.il/
+Communication systems engineering,Bachelor's degree,The Hebrew University of Jerusalem,Jerusalem,Jerusalem ,12500,650,450,https://new.huji.ac.il/
+Software engineering,Bachelor's degree,The Hebrew University of Jerusalem,Jerusalem,Jerusalem ,11780,585,650,https://new.huji.ac.il/
+Industrial Engineering and Management,Bachelor's degree,The Hebrew University of Jerusalem,Jerusalem,Jerusalem ,12000,760,585,https://new.huji.ac.il/
+Education,Bachelor's degree,The Hebrew University of Jerusalem,Jerusalem,Jerusalem ,12000,760,660,https://new.huji.ac.il/
+Chemistry,Bachelor's degree,The Hebrew University of Jerusalem,Jerusalem,Jerusalem ,11870,600,660,https://new.huji.ac.il/
+Economics specializing in accounting,Bachelor's degree,The Hebrew University of Jerusalem,Jerusalem,Jerusalem ,11900,450,600,https://new.huji.ac.il/
+Economics specialization in business administration,Bachelor's degree,The Hebrew University of Jerusalem,Jerusalem,Jerusalem ,11500,400,450,https://new.huji.ac.il/
+Middle Eastern studies,Bachelor's degree,The Hebrew University of Jerusalem,Jerusalem,Jerusalem ,12100,760,430,https://new.huji.ac.il/
+State of Israel studies,Bachelor's degree,The Hebrew University of Jerusalem,Jerusalem,Jerusalem ,12160,600,660,https://new.huji.ac.il/
+Humanities and social sciences - multidisciplinary,Bachelor's degree,The Hebrew University of Jerusalem,Jerusalem,Jerusalem ,12200,620,600,https://new.huji.ac.il/
+Social sciences - multidisciplinary,Bachelor's degree,The Hebrew University of Jerusalem,Jerusalem,Jerusalem ,12500,520,620,https://new.huji.ac.il/
+Humanities - multidisciplinary,Bachelor's degree,The Hebrew University of Jerusalem,Jerusalem,Jerusalem ,11780,520,520,https://new.huji.ac.il/
+Hebrew language,Bachelor's degree,The Hebrew University of Jerusalem,Jerusalem,Jerusalem ,12000,630,520,https://new.huji.ac.il/
+Geological and environmental sciences,Bachelor's degree,The Hebrew University of Jerusalem,Jerusalem,Jerusalem ,12000,550,630,https://new.huji.ac.il/
+Behavioral sciences,Bachelor's degree,The Hebrew University of Jerusalem,Jerusalem,Jerusalem ,11870,620,550,https://new.huji.ac.il/
+Life science,Bachelor's degree,The Hebrew University of Jerusalem,Jerusalem,Jerusalem ,11900,550,620,https://new.huji.ac.il/
+Computer science,Bachelor's degree,The Hebrew University of Jerusalem,Jerusalem,Jerusalem ,11500,450,550,https://new.huji.ac.il/
+Computer science and bioinformatics,Bachelor's degree,The Hebrew University of Jerusalem,Jerusalem,Jerusalem ,12100,640,550,https://new.huji.ac.il/
+Medical laboratory sciences,Bachelor's degree,The Hebrew University of Jerusalem,Jerusalem,Jerusalem ,12160,550,450,https://new.huji.ac.il/
+Judaism studies,Bachelor's degree,The Hebrew University of Jerusalem,Jerusalem,Jerusalem ,12200,650,550,https://new.huji.ac.il/
+Bible and Ancient Middle East,Bachelor's degree,The Hebrew University of Jerusalem,Jerusalem,Jerusalem ,12500,500,550,https://new.huji.ac.il/
+Mathematics,Bachelor's degree,The Hebrew University of Jerusalem,Jerusalem,Jerusalem ,11780,630,650,https://new.huji.ac.il/
+Mathematics and computer science,Bachelor's degree,The Hebrew University of Jerusalem,Jerusalem,Jerusalem ,12000,650,500,https://new.huji.ac.il/
+One-departmental management and entrepreneurship,Bachelor's degree,The Hebrew University of Jerusalem,Jerusalem,Jerusalem ,12000,650,600,https://new.huji.ac.il/
+Bi-departmental management,Bachelor's degree,The Hebrew University of Jerusalem,Jerusalem,Jerusalem ,11870,680,650,https://new.huji.ac.il/
+Hotel and tourism management,Bachelor's degree,The Hebrew University of Jerusalem,Jerusalem,Jerusalem ,11900,737,650,https://new.huji.ac.il/
+Health systems management,Bachelor's degree,The Hebrew University of Jerusalem,Jerusalem,Jerusalem ,11500,0,600,https://new.huji.ac.il/
+Information system management,Bachelor's degree,The Hebrew University of Jerusalem,Jerusalem,Jerusalem ,12100,0,680,https://new.huji.ac.il/
+Sociology Anthropology two departments,Bachelor's degree,The Hebrew University of Jerusalem,Jerusalem,Jerusalem ,12160,0,540,https://new.huji.ac.il/
+Sociology Anthropology and Management,Bachelor's degree,The Hebrew University of Jerusalem,Jerusalem,Jerusalem ,12200,0,730,https://new.huji.ac.il/
+Nursing,Bachelor's degree,The Hebrew University of Jerusalem,Jerusalem,Jerusalem ,12500,0,0,https://new.huji.ac.il/
+Foreign literature and linguistics,Bachelor's degree,The Hebrew University of Jerusalem,Jerusalem,Jerusalem ,11780,0,450,https://new.huji.ac.il/
+Hebrew literature,Bachelor's degree,The Hebrew University of Jerusalem,Jerusalem,Jerusalem ,12000,582,700,https://new.huji.ac.il/
+Social work,Bachelor's degree,The Hebrew University of Jerusalem,Jerusalem,Jerusalem ,12000,610,0,https://new.huji.ac.il/
+Politics and Government,Bachelor's degree,The Hebrew University of Jerusalem,Jerusalem,Jerusalem ,11870,660,0,https://new.huji.ac.il/
+Physiotherapy,Bachelor's degree,The Hebrew University of Jerusalem,Jerusalem,Jerusalem ,11900,705,730,https://new.huji.ac.il/
+Philosophy,Bachelor's degree,The Hebrew University of Jerusalem,Jerusalem,Jerusalem ,11500,610,0,https://new.huji.ac.il/
+Physics,Bachelor's degree,The Hebrew University of Jerusalem,Jerusalem,Jerusalem ,12100,660,0,https://new.huji.ac.il/
+Two-departmental psychology,Bachelor's degree,The Hebrew University of Jerusalem,Jerusalem,Jerusalem ,12160,580,727,https://new.huji.ac.il/
+Psychology and Management,Bachelor's degree,The Hebrew University of Jerusalem,Jerusalem,Jerusalem ,12200,610,0,https://new.huji.ac.il/
+Pharmacy,Bachelor's degree,The Hebrew University of Jerusalem,Jerusalem,Jerusalem ,12500,640,650,https://new.huji.ac.il/
+Medicine,Bachelor's degree,The Hebrew University of Jerusalem,Jerusalem,Jerusalem ,11780,675,620,https://new.huji.ac.il/
+Emergency medicine,Bachelor's degree,The Hebrew University of Jerusalem,Jerusalem,Jerusalem ,12000,640,760,https://new.huji.ac.il/
+Arts,Bachelor's degree,The Weizmann Institute of Science,Rehovot,Center,12000,690,760,https://www.weizmann.ac.il/pages/
+Archaeology,Bachelor's degree,The Weizmann Institute of Science,Rehovot,Center,11870,665,760,https://www.weizmann.ac.il/pages/
+Geography and environmental development,Bachelor's degree,The Weizmann Institute of Science,Rehovot,Center,11900,730,0,https://www.weizmann.ac.il/pages/
+General history,Bachelor's degree,The Weizmann Institute of Science,Rehovot,Center,11500,695,0,https://www.weizmann.ac.il/pages/
+History of the people of Israel,Bachelor's degree,The Weizmann Institute of Science,Rehovot,Center,12100,575,0,https://www.weizmann.ac.il/pages/
+Biomedical engineering,Bachelor's degree,The Weizmann Institute of Science,Rehovot,Center,12160,629,727,https://www.weizmann.ac.il/pages/
+Chemical engineering,Bachelor's degree,The Weizmann Institute of Science,Rehovot,Center,12000,556,727,https://www.weizmann.ac.il/pages/
+Biotechnology engineering,Bachelor's degree,The Weizmann Institute of Science,Rehovot,Center,12000,650,0,https://www.weizmann.ac.il/pages/
+Structural engineering,Bachelor's degree,The Weizmann Institute of Science,Rehovot,Center,11870,620,0,https://www.weizmann.ac.il/pages/
+Materials engineering,Bachelor's degree,The Weizmann Institute of Science,Rehovot,Center,11900,620,727,https://www.weizmann.ac.il/pages/
+Electrical and Computer Engineering,Bachelor's degree,The Weizmann Institute of Science,Rehovot,Center,11500,500,450,https://www.weizmann.ac.il/pages/
+Computer engineering,Bachelor's degree,The Weizmann Institute of Science,Rehovot,Center,12100,500,450,https://www.weizmann.ac.il/pages/
+Mechanical engineering,Bachelor's degree,The Weizmann Institute of Science,Rehovot,Center,12160,525,0,https://www.weizmann.ac.il/pages/
+Data system engineering,Bachelor's degree,The Weizmann Institute of Science,Rehovot,Center,12200,670,0,https://www.weizmann.ac.il/pages/
+Communication systems engineering,Bachelor's degree,The Weizmann Institute of Science,Rehovot,Center,12500,730,0,https://www.weizmann.ac.il/pages/
+Software engineering,Bachelor's degree,The Weizmann Institute of Science,Rehovot,Center,11780,545,727,https://www.weizmann.ac.il/pages/
+Industrial Engineering and Management,Bachelor's degree,The Weizmann Institute of Science,Rehovot,Center,12000,730,0,https://www.weizmann.ac.il/pages/
+Education,Bachelor's degree,The Weizmann Institute of Science,Rehovot,Center,12000,730,0,https://www.weizmann.ac.il/pages/
+Chemistry,Bachelor's degree,The Weizmann Institute of Science,Rehovot,Center,11870,730,0,https://www.weizmann.ac.il/pages/
+Economics specializing in accounting,Bachelor's degree,The Weizmann Institute of Science,Rehovot,Center,11900,730,0,https://www.weizmann.ac.il/pages/
+Economics specialization in business administration,Bachelor's degree,The Weizmann Institute of Science,Rehovot,Center,11500,500,450,https://www.weizmann.ac.il/pages/
+Middle Eastern studies,Bachelor's degree,The Weizmann Institute of Science,Rehovot,Center,12100,0,450,https://www.weizmann.ac.il/pages/
+State of Israel studies,Bachelor's degree,The Weizmann Institute of Science,Rehovot,Center,12160,655,600,https://www.weizmann.ac.il/pages/
+Humanities and social sciences - multidisciplinary,Bachelor's degree,The Weizmann Institute of Science,Rehovot,Center,12200,645,0,https://www.weizmann.ac.il/pages/
+Social sciences - multidisciplinary,Bachelor's degree,The Weizmann Institute of Science,Rehovot,Center,12500,680,0,https://www.weizmann.ac.il/pages/
+Humanities - multidisciplinary,Bachelor's degree,The Weizmann Institute of Science,Rehovot,Center,11780,680,0,https://www.weizmann.ac.il/pages/
+Hebrew language,Bachelor's degree,The Weizmann Institute of Science,Rehovot,Center,12000,662,750,https://www.weizmann.ac.il/pages/
+Geological and environmental sciences,Bachelor's degree,The Weizmann Institute of Science,Rehovot,Center,12000,629,727,https://www.weizmann.ac.il/pages/
+Behavioral sciences,Bachelor's degree,The Weizmann Institute of Science,Rehovot,Center,11870,525,727,https://www.weizmann.ac.il/pages/
+Life science,Bachelor's degree,The Weizmann Institute of Science,Rehovot,Center,11900,540,540,https://www.weizmann.ac.il/pages/
+Computer science,Bachelor's degree,The Weizmann Institute of Science,Rehovot,Center,11500,0,500,https://www.weizmann.ac.il/pages/
+Computer science and bioinformatics,Bachelor's degree,The Weizmann Institute of Science,Rehovot,Center,12100,650,727,https://www.weizmann.ac.il/pages/
+Medical laboratory sciences,Bachelor's degree,The Weizmann Institute of Science,Rehovot,Center,12160,650,727,https://www.weizmann.ac.il/pages/
+Judaism studies,Bachelor's degree,The Weizmann Institute of Science,Rehovot,Center,12200,570,727,https://www.weizmann.ac.il/pages/
+Bible and Ancient Middle East,Bachelor's degree,The Weizmann Institute of Science,Rehovot,Center,12500,600,620,https://www.weizmann.ac.il/pages/
+Mathematics,Bachelor's degree,The Weizmann Institute of Science,Rehovot,Center,11780,660,0,https://www.weizmann.ac.il/pages/
+Mathematics and computer science,Bachelor's degree,The Weizmann Institute of Science,Rehovot,Center,12000,660,727,https://www.weizmann.ac.il/pages/
+One-departmental management and entrepreneurship,Bachelor's degree,The Weizmann Institute of Science,Rehovot,Center,12000,705,727,https://www.weizmann.ac.il/pages/
+Bi-departmental management,Bachelor's degree,The Weizmann Institute of Science,Rehovot,Center,11870,450,0,https://www.weizmann.ac.il/pages/
+Hotel and tourism management,Bachelor's degree,The Weizmann Institute of Science,Rehovot,Center,11900,0,700,https://www.weizmann.ac.il/pages/
+Health systems management,Bachelor's degree,The Weizmann Institute of Science,Rehovot,Center,11500,690,640,https://www.weizmann.ac.il/pages/
+Information system management,Bachelor's degree,The Weizmann Institute of Science,Rehovot,Center,12100,615,600,https://www.weizmann.ac.il/pages/
+Sociology Anthropology two departments,Bachelor's degree,The Weizmann Institute of Science,Rehovot,Center,12160,460,727,https://www.weizmann.ac.il/pages/
+Sociology Anthropology and Management,Bachelor's degree,The Weizmann Institute of Science,Rehovot,Center,12000,0,450,https://www.weizmann.ac.il/pages/
+Nursing,Bachelor's degree,The Weizmann Institute of Science,Rehovot,Center,12000,540,727,https://www.weizmann.ac.il/pages/
+Foreign literature and linguistics,Bachelor's degree,The Weizmann Institute of Science,Rehovot,Center,11870,500,550,https://www.weizmann.ac.il/pages/
+Hebrew literature,Bachelor's degree,The Weizmann Institute of Science,Rehovot,Center,11900,510,550,https://www.weizmann.ac.il/pages/
+Social work,Bachelor's degree,The Weizmann Institute of Science,Rehovot,Center,11500,520,550,https://www.weizmann.ac.il/pages/
+Politics and Government,Bachelor's degree,The Weizmann Institute of Science,Rehovot,Center,12100,500,550,https://www.weizmann.ac.il/pages/
+Physiotherapy,Bachelor's degree,The Weizmann Institute of Science,Rehovot,Center,12160,537,600,https://www.weizmann.ac.il/pages/
+Philosophy,Bachelor's degree,The Weizmann Institute of Science,Rehovot,Center,12200,537,600,https://www.weizmann.ac.il/pages/
+Physics,Bachelor's degree,The Weizmann Institute of Science,Rehovot,Center,12500,520,550,https://www.weizmann.ac.il/pages/
+Two-departmental psychology,Bachelor's degree,The Weizmann Institute of Science,Rehovot,Center,11780,530,550,https://www.weizmann.ac.il/pages/
+Psychology and Management,Bachelor's degree,The Weizmann Institute of Science,Rehovot,Center,12000,530,600,https://www.weizmann.ac.il/pages/
+Pharmacy,Bachelor's degree,The Weizmann Institute of Science,Rehovot,Center,12000,535,600,https://www.weizmann.ac.il/pages/
+Medicine,Bachelor's degree,The Weizmann Institute of Science,Rehovot,Center,11870,505,550,https://www.weizmann.ac.il/pages/
+Emergency medicine,Bachelor's degree,The Weizmann Institute of Science,Rehovot,Center,11900,550,550,https://www.weizmann.ac.il/pages/
+Arts,Bachelor's degree,Ariel University,Ariel,Jerusalem,11500,600,600,https://www.ariel.ac.il/wp/
+Archaeology,Bachelor's degree,Ariel University,Ariel,Jerusalem,12100,500,620,https://www.ariel.ac.il/wp/
+Geography and environmental development,Bachelor's degree,Ariel University,Ariel,Jerusalem,12160,450,600,https://www.ariel.ac.il/wp/
+General history,Bachelor's degree,Ariel University,Ariel,Jerusalem,12200,530,500,https://www.ariel.ac.il/wp/
+History of the people of Israel,Bachelor's degree,Ariel University,Ariel,Jerusalem,12500,550,450,https://www.ariel.ac.il/wp/
+Biomedical engineering,Bachelor's degree,Ariel University,Ariel,Jerusalem,11780,450,530,https://www.ariel.ac.il/wp/
+Chemical engineering,Bachelor's degree,Ariel University,Ariel,Jerusalem,12000,450,550,https://www.ariel.ac.il/wp/
+Biotechnology engineering,Bachelor's degree,Ariel University,Ariel,Jerusalem,12000,600,450,https://www.ariel.ac.il/wp/
+Structural engineering,Bachelor's degree,Ariel University,Ariel,Jerusalem,11870,650,450,https://www.ariel.ac.il/wp/
+Materials engineering,Bachelor's degree,Ariel University,Ariel,Jerusalem,11900,585,650,https://www.ariel.ac.il/wp/
+Electrical and Computer Engineering,Bachelor's degree,Ariel University,Ariel,Jerusalem,11500,760,585,https://www.ariel.ac.il/wp/
+Computer engineering,Bachelor's degree,Ariel University,Ariel,Jerusalem,12100,760,660,https://www.ariel.ac.il/wp/
+Mechanical engineering,Bachelor's degree,Ariel University,Ariel,Jerusalem,12160,600,660,https://www.ariel.ac.il/wp/
+Data system engineering,Bachelor's degree,Ariel University,Ariel,Jerusalem,12200,450,600,https://www.ariel.ac.il/wp/
+Communication systems engineering,Bachelor's degree,Ariel University,Ariel,Jerusalem,12500,400,450,https://www.ariel.ac.il/wp/
+Software engineering,Bachelor's degree,Ariel University,Ariel,Jerusalem,11780,760,430,https://www.ariel.ac.il/wp/
+Industrial Engineering and Management,Bachelor's degree,Ariel University,Ariel,Jerusalem,12000,600,660,https://www.ariel.ac.il/wp/
+Education,Bachelor's degree,Ariel University,Ariel,Jerusalem,12000,620,600,https://www.ariel.ac.il/wp/
+Chemistry,Bachelor's degree,Ariel University,Ariel,Jerusalem,11870,520,620,https://www.ariel.ac.il/wp/
+Economics specializing in accounting,Bachelor's degree,Ariel University,Ariel,Jerusalem,11900,520,520,https://www.ariel.ac.il/wp/
+Economics specialization in business administration,Bachelor's degree,Ariel University,Ariel,Jerusalem,11500,630,520,https://www.ariel.ac.il/wp/
+Middle Eastern studies,Bachelor's degree,Ariel University,Ariel,Jerusalem,12100,550,630,https://www.ariel.ac.il/wp/
+State of Israel studies,Bachelor's degree,Ariel University,Ariel,Jerusalem,12160,620,550,https://www.ariel.ac.il/wp/
+Humanities and social sciences - multidisciplinary,Bachelor's degree,Ariel University,Ariel,Jerusalem,12000,550,620,https://www.ariel.ac.il/wp/
+Social sciences - multidisciplinary,Bachelor's degree,Ariel University,Ariel,Jerusalem,12000,450,550,https://www.ariel.ac.il/wp/
+Humanities - multidisciplinary,Bachelor's degree,Ariel University,Ariel,Jerusalem,11870,640,550,https://www.ariel.ac.il/wp/
+Hebrew language,Bachelor's degree,Ariel University,Ariel,Jerusalem,11900,550,450,https://www.ariel.ac.il/wp/
+Geological and environmental sciences,Bachelor's degree,Ariel University,Ariel,Jerusalem,11500,650,550,https://www.ariel.ac.il/wp/
+Behavioral sciences,Bachelor's degree,Ariel University,Ariel,Jerusalem,12100,500,550,https://www.ariel.ac.il/wp/
+Life science,Bachelor's degree,Ariel University,Ariel,Jerusalem,12160,630,650,https://www.ariel.ac.il/wp/
+Computer science,Bachelor's degree,Ariel University,Ariel,Jerusalem,12200,650,500,https://www.ariel.ac.il/wp/
+Computer science and bioinformatics,Bachelor's degree,Ariel University,Ariel,Jerusalem,12500,650,600,https://www.ariel.ac.il/wp/
+Medical laboratory sciences,Bachelor's degree,Ariel University,Ariel,Jerusalem,11780,680,650,https://www.ariel.ac.il/wp/
+Judaism studies,Bachelor's degree,Ariel University,Ariel,Jerusalem,12000,737,650,https://www.ariel.ac.il/wp/
+Bible and Ancient Middle East,Bachelor's degree,Ariel University,Ariel,Jerusalem,12000,0,600,https://www.ariel.ac.il/wp/
+Mathematics,Bachelor's degree,Ariel University,Ariel,Jerusalem,11870,0,680,https://www.ariel.ac.il/wp/
+Mathematics and computer science,Bachelor's degree,Ariel University,Ariel,Jerusalem,11900,0,540,https://www.ariel.ac.il/wp/
+One-departmental management and entrepreneurship,Bachelor's degree,Ariel University,Ariel,Jerusalem,11500,0,730,https://www.ariel.ac.il/wp/
+Bi-departmental management,Bachelor's degree,Ariel University,Ariel,Jerusalem,12100,0,0,https://www.ariel.ac.il/wp/
+Hotel and tourism management,Bachelor's degree,Ariel University,Ariel,Jerusalem,12160,0,450,https://www.ariel.ac.il/wp/
+Health systems management,Bachelor's degree,Ariel University,Ariel,Jerusalem,12200,582,700,https://www.ariel.ac.il/wp/
+Information system management,Bachelor's degree,Ariel University,Ariel,Jerusalem,12500,610,0,https://www.ariel.ac.il/wp/
+Sociology Anthropology two departments,Bachelor's degree,Ariel University,Ariel,Jerusalem,11780,660,0,https://www.ariel.ac.il/wp/
+Sociology Anthropology and Management,Bachelor's degree,Ariel University,Ariel,Jerusalem,12000,705,730,https://www.ariel.ac.il/wp/
+Nursing,Bachelor's degree,Ariel University,Ariel,Jerusalem,12000,610,0,https://www.ariel.ac.il/wp/
+Foreign literature and linguistics,Bachelor's degree,Ariel University,Ariel,Jerusalem,11870,660,0,https://www.ariel.ac.il/wp/
+Hebrew literature,Bachelor's degree,Ariel University,Ariel,Jerusalem,11900,580,727,https://www.ariel.ac.il/wp/
+Social work,Bachelor's degree,Ariel University,Ariel,Jerusalem,11500,610,0,https://www.ariel.ac.il/wp/
+Politics and Government,Bachelor's degree,Ariel University,Ariel,Jerusalem,12100,640,650,https://www.ariel.ac.il/wp/
+Physiotherapy,Bachelor's degree,Ariel University,Ariel,Jerusalem,12160,675,620,https://www.ariel.ac.il/wp/
+Philosophy,Bachelor's degree,Ariel University,Ariel,Jerusalem,12200,640,760,https://www.ariel.ac.il/wp/
+Physics,Bachelor's degree,Ariel University,Ariel,Jerusalem,12500,690,760,https://www.ariel.ac.il/wp/
+Two-departmental psychology,Bachelor's degree,Ariel University,Ariel,Jerusalem,11780,665,760,https://www.ariel.ac.il/wp/
+Psychology and Management,Bachelor's degree,Ariel University,Ariel,Jerusalem,12000,730,650,https://www.ariel.ac.il/wp/
+Pharmacy,Bachelor's degree,Ariel University,Ariel,Jerusalem,12000,695,650,https://www.ariel.ac.il/wp/
+Medicine,Bachelor's degree,Ariel University,Ariel,Jerusalem,11870,575,760,https://www.ariel.ac.il/wp/
+Emergency medicine,Bachelor's degree,Ariel University,Ariel,Jerusalem,11900,629,727,https://www.ariel.ac.il/wp/
+Arts,Master degree,Ben Gurion University of the Negev,Beer Sheva,South,12200,450,450,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Archaeology,Master degree,Ben Gurion University of the Negev,Beer Sheva,South,12500,400,430,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Geography and environmental development,Master degree,Ben Gurion University of the Negev,Beer Sheva,South,11780,520,500,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+General history,Master degree,Ben Gurion University of the Negev,Beer Sheva,South,12000,450,450,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+History of the people of Israel,Master degree,Ben Gurion University of the Negev,Beer Sheva,South,12000,450,450,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Biomedical engineering,Master degree,Ben Gurion University of the Negev,Beer Sheva,South,11870,525,550,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Chemical engineering,Master degree,Ben Gurion University of the Negev,Beer Sheva,South,11900,500,550,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Biotechnology engineering,Master degree,Ben Gurion University of the Negev,Beer Sheva,South,11500,510,550,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Structural engineering,Master degree,Ben Gurion University of the Negev,Beer Sheva,South,12100,520,550,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Materials engineering,Master degree,Ben Gurion University of the Negev,Beer Sheva,South,12160,500,550,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Electrical and Computer Engineering,Master degree,Ben Gurion University of the Negev,Beer Sheva,South,12200,537,600,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Computer engineering,Master degree,Ben Gurion University of the Negev,Beer Sheva,South,12500,537,600,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Mechanical engineering,Master degree,Ben Gurion University of the Negev,Beer Sheva,South,11780,520,550,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Data system engineering,Master degree,Ben Gurion University of the Negev,Beer Sheva,South,12000,530,550,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Communication systems engineering,Master degree,Ben Gurion University of the Negev,Beer Sheva,South,12000,530,600,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Software engineering,Master degree,Ben Gurion University of the Negev,Beer Sheva,South,11870,535,600,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Industrial Engineering and Management,Master degree,Ben Gurion University of the Negev,Beer Sheva,South,11900,505,550,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Education,Master degree,Ben Gurion University of the Negev,Beer Sheva,South,11500,550,550,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Chemistry,Master degree,Ben Gurion University of the Negev,Beer Sheva,South,12100,600,600,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Economics specializing in accounting,Master degree,Ben Gurion University of the Negev,Beer Sheva,South,12160,500,620,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Economics specialization in business administration,Master degree,Ben Gurion University of the Negev,Beer Sheva,South,12200,450,600,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Middle Eastern studies,Master degree,Ben Gurion University of the Negev,Beer Sheva,South,12500,530,500,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+State of Israel studies,Master degree,Ben Gurion University of the Negev,Beer Sheva,South,11780,550,450,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Humanities and social sciences - multidisciplinary,Master degree,Ben Gurion University of the Negev,Beer Sheva,South,12000,450,530,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Social sciences - multidisciplinary,Master degree,Ben Gurion University of the Negev,Beer Sheva,South,12000,450,550,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Humanities - multidisciplinary,Master degree,Ben Gurion University of the Negev,Beer Sheva,South,11870,600,450,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Hebrew language,Master degree,Ben Gurion University of the Negev,Beer Sheva,South,11900,650,450,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Geological and environmental sciences,Master degree,Ben Gurion University of the Negev,Beer Sheva,South,11500,585,650,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Behavioral sciences,Master degree,Ben Gurion University of the Negev,Beer Sheva,South,12100,760,585,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Life science,Master degree,Ben Gurion University of the Negev,Beer Sheva,South,12160,760,660,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Computer science,Master degree,Ben Gurion University of the Negev,Beer Sheva,South,12200,600,660,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Computer science and bioinformatics,Master degree,Ben Gurion University of the Negev,Beer Sheva,South,12500,450,600,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Medical laboratory sciences,Master degree,Ben Gurion University of the Negev,Beer Sheva,South,11780,400,450,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Judaism studies,Master degree,Ben Gurion University of the Negev,Beer Sheva,South,12000,760,430,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Bible and Ancient Middle East,Master degree,Ben Gurion University of the Negev,Beer Sheva,South,12000,600,660,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Mathematics,Master degree,Ben Gurion University of the Negev,Beer Sheva,South,11870,620,600,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Mathematics and computer science,Master degree,Ben Gurion University of the Negev,Beer Sheva,South,11900,520,620,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+One-departmental management and entrepreneurship,Master degree,Ben Gurion University of the Negev,Beer Sheva,South,11500,520,520,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Bi-departmental management,Master degree,Ben Gurion University of the Negev,Beer Sheva,South,12100,630,520,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Hotel and tourism management,Master degree,Ben Gurion University of the Negev,Beer Sheva,South,12160,550,630,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Health systems management,Master degree,Ben Gurion University of the Negev,Beer Sheva,South,12200,620,550,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Information system management,Master degree,Ben Gurion University of the Negev,Beer Sheva,South,12500,550,620,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Sociology Anthropology two departments,Master degree,Ben Gurion University of the Negev,Beer Sheva,South,11780,450,550,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Sociology Anthropology and Management,Master degree,Ben Gurion University of the Negev,Beer Sheva,South,12000,640,550,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Nursing,Master degree,Ben Gurion University of the Negev,Beer Sheva,South,12000,550,450,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Foreign literature and linguistics,Master degree,Ben Gurion University of the Negev,Beer Sheva,South,11870,650,550,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Hebrew literature,Master degree,Ben Gurion University of the Negev,Beer Sheva,South,11900,500,550,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Social work,Master degree,Ben Gurion University of the Negev,Beer Sheva,South,11500,630,650,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Politics and Government,Master degree,Ben Gurion University of the Negev,Beer Sheva,South,12100,650,500,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Physiotherapy,Master degree,Ben Gurion University of the Negev,Beer Sheva,South,12160,650,600,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Philosophy,Master degree,Ben Gurion University of the Negev,Beer Sheva,South,12200,680,650,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Physics,Master degree,Ben Gurion University of the Negev,Beer Sheva,South,12500,737,650,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Two-departmental psychology,Master degree,Ben Gurion University of the Negev,Beer Sheva,South,11780,0,600,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Psychology and Management,Master degree,Ben Gurion University of the Negev,Beer Sheva,South,12000,0,680,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Arts,Master degree,Ben Gurion University of the Negev,Beer Sheva,South,12000,0,540,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Archaeology,Master degree,Ben Gurion University of the Negev,Beer Sheva,South,11870,0,730,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+Geography and environmental development,Master degree,Ben Gurion University of the Negev,Beer Sheva,South,11900,0,0,https://in.bgu.ac.il/welcome/Pages/clusters_find-your-interest.aspx
+General history,Master degree,Tel Aviv University,Tel Aviv,Center,11500,0,450,https://www.tau.ac.il/
+History of the people of Israel,Master degree,Tel Aviv University,Tel Aviv,Center,12100,582,700,https://www.tau.ac.il/
+Biomedical engineering,Master degree,Tel Aviv University,Tel Aviv,Center,12160,610,0,https://www.tau.ac.il/
+Chemical engineering,Master degree,Tel Aviv University,Tel Aviv,Center,12200,660,0,https://www.tau.ac.il/
+Biotechnology engineering,Master degree,Tel Aviv University,Tel Aviv,Center,12500,705,730,https://www.tau.ac.il/
+Structural engineering,Master degree,Tel Aviv University,Tel Aviv,Center,11780,610,0,https://www.tau.ac.il/
+Materials engineering,Master degree,Tel Aviv University,Tel Aviv,Center,12000,660,0,https://www.tau.ac.il/
+Electrical and Computer Engineering,Master degree,Tel Aviv University,Tel Aviv,Center,12000,580,727,https://www.tau.ac.il/
+Computer engineering,Master degree,Tel Aviv University,Tel Aviv,Center,11870,610,0,https://www.tau.ac.il/
+Mechanical engineering,Master degree,Tel Aviv University,Tel Aviv,Center,11900,640,650,https://www.tau.ac.il/
+Data system engineering,Master degree,Tel Aviv University,Tel Aviv,Center,11500,675,620,https://www.tau.ac.il/
+Communication systems engineering,Master degree,Tel Aviv University,Tel Aviv,Center,12100,640,760,https://www.tau.ac.il/
+Software engineering,Master degree,Tel Aviv University,Tel Aviv,Center,12160,690,760,https://www.tau.ac.il/
+Industrial Engineering and Management,Master degree,Tel Aviv University,Tel Aviv,Center,12200,665,760,https://www.tau.ac.il/
+Education,Master degree,Tel Aviv University,Tel Aviv,Center,12500,730,0,https://www.tau.ac.il/
+Chemistry,Master degree,Tel Aviv University,Tel Aviv,Center,11780,695,0,https://www.tau.ac.il/
+Economics specializing in accounting,Master degree,Tel Aviv University,Tel Aviv,Center,12000,575,0,https://www.tau.ac.il/
+Economics specialization in business administration,Master degree,Tel Aviv University,Tel Aviv,Center,12000,629,727,https://www.tau.ac.il/
+Middle Eastern studies,Master degree,Tel Aviv University,Tel Aviv,Center,11870,556,727,https://www.tau.ac.il/
+State of Israel studies,Master degree,Tel Aviv University,Tel Aviv,Center,11900,650,0,https://www.tau.ac.il/
+Humanities and social sciences - multidisciplinary,Master degree,Tel Aviv University,Tel Aviv,Center,11500,620,0,https://www.tau.ac.il/
+Social sciences - multidisciplinary,Master degree,Tel Aviv University,Tel Aviv,Center,12100,620,727,https://www.tau.ac.il/
+Humanities - multidisciplinary,Master degree,Tel Aviv University,Tel Aviv,Center,12160,500,450,https://www.tau.ac.il/
+Hebrew language,Master degree,Tel Aviv University,Tel Aviv,Center,12200,500,450,https://www.tau.ac.il/
+Geological and environmental sciences,Master degree,Tel Aviv University,Tel Aviv,Center,12500,525,0,https://www.tau.ac.il/
+Behavioral sciences,Master degree,Tel Aviv University,Tel Aviv,Center,11780,670,0,https://www.tau.ac.il/
+Life science,Master degree,Tel Aviv University,Tel Aviv,Center,12000,730,0,https://www.tau.ac.il/
+Computer science,Master degree,Tel Aviv University,Tel Aviv,Center,12000,545,727,https://www.tau.ac.il/
+Computer science and bioinformatics,Master degree,Tel Aviv University,Tel Aviv,Center,11870,730,0,https://www.tau.ac.il/
+Medical laboratory sciences,Master degree,Tel Aviv University,Tel Aviv,Center,11900,730,0,https://www.tau.ac.il/
+Judaism studies,Master degree,Tel Aviv University,Tel Aviv,Center,11500,730,0,https://www.tau.ac.il/
+Bible and Ancient Middle East,Master degree,Tel Aviv University,Tel Aviv,Center,12100,730,0,https://www.tau.ac.il/
+Mathematics,Master degree,Tel Aviv University,Tel Aviv,Center,12160,500,450,https://www.tau.ac.il/
+Mathematics and computer science,Master degree,Tel Aviv University,Tel Aviv,Center,12200,0,450,https://www.tau.ac.il/
+One-departmental management and entrepreneurship,Master degree,Tel Aviv University,Tel Aviv,Center,12500,655,600,https://www.tau.ac.il/
+Bi-departmental management,Master degree,Tel Aviv University,Tel Aviv,Center,11780,645,0,https://www.tau.ac.il/
+Hotel and tourism management,Master degree,Tel Aviv University,Tel Aviv,Center,12000,680,0,https://www.tau.ac.il/
+Health systems management,Master degree,Tel Aviv University,Tel Aviv,Center,12000,680,0,https://www.tau.ac.il/
+Information system management,Master degree,Tel Aviv University,Tel Aviv,Center,11870,662,750,https://www.tau.ac.il/
+Sociology Anthropology two departments,Master degree,Tel Aviv University,Tel Aviv,Center,11900,629,727,https://www.tau.ac.il/
+Sociology Anthropology and Management,Master degree,Tel Aviv University,Tel Aviv,Center,11500,525,727,https://www.tau.ac.il/
+Nursing,Master degree,Tel Aviv University,Tel Aviv,Center,12100,540,540,https://www.tau.ac.il/
+Foreign literature and linguistics,Master degree,Tel Aviv University,Tel Aviv,Center,12160,0,500,https://www.tau.ac.il/
+Hebrew literature,Master degree,Tel Aviv University,Tel Aviv,Center,12200,650,727,https://www.tau.ac.il/
+Social work,Master degree,Tel Aviv University,Tel Aviv,Center,12500,650,727,https://www.tau.ac.il/
+Politics and Government,Master degree,Tel Aviv University,Tel Aviv,Center,11780,570,727,https://www.tau.ac.il/
+Physiotherapy,Master degree,Tel Aviv University,Tel Aviv,Center,12000,600,620,https://www.tau.ac.il/
+Philosophy,Master degree,Tel Aviv University,Tel Aviv,Center,12000,660,0,https://www.tau.ac.il/
+Physics,Master degree,Tel Aviv University,Tel Aviv,Center,11870,660,727,https://www.tau.ac.il/
+Two-departmental psychology,Master degree,Tel Aviv University,Tel Aviv,Center,11900,705,727,https://www.tau.ac.il/
+Psychology and Management,Master degree,Tel Aviv University,Tel Aviv,Center,11500,450,0,https://www.tau.ac.il/
+Arts,Master degree,Tel Aviv University,Tel Aviv,Center,12100,0,700,https://www.tau.ac.il/
+Archaeology,Master degree,Tel Aviv University,Tel Aviv,Center,12160,690,640,https://www.tau.ac.il/
+Geography and environmental development,Master degree,Tel Aviv University,Tel Aviv,Center,12200,615,600,https://www.tau.ac.il/
+General history,Master degree,Tel Aviv University,Tel Aviv,Center,12500,460,727,https://www.tau.ac.il/
+History of the people of Israel,Master degree,Tel Aviv University,Tel Aviv,Center,11780,0,450,https://www.tau.ac.il/
+Biomedical engineering,Master degree,Tel Aviv University,Tel Aviv,Center,12000,540,727,https://www.tau.ac.il/
+Chemical engineering,Master degree,Bar Ilan University,Ramat Gan,Center,12000,500,550,https://www.biu.ac.il/
+Biotechnology engineering,Master degree,Bar Ilan University,Ramat Gan,Center,11870,510,550,https://www.biu.ac.il/
+Structural engineering,Master degree,Bar Ilan University,Ramat Gan,Center,11900,520,550,https://www.biu.ac.il/
+Materials engineering,Master degree,Bar Ilan University,Ramat Gan,Center,11500,500,550,https://www.biu.ac.il/
+Electrical and Computer Engineering,Master degree,Bar Ilan University,Ramat Gan,Center,12100,537,600,https://www.biu.ac.il/
+Computer engineering,Master degree,Bar Ilan University,Ramat Gan,Center,12160,537,600,https://www.biu.ac.il/
+Mechanical engineering,Master degree,Bar Ilan University,Ramat Gan,Center,12200,520,550,https://www.biu.ac.il/
+Data system engineering,Master degree,Bar Ilan University,Ramat Gan,Center,12500,530,550,https://www.biu.ac.il/
+Communication systems engineering,Master degree,Bar Ilan University,Ramat Gan,Center,11780,530,600,https://www.biu.ac.il/
+Software engineering,Master degree,Bar Ilan University,Ramat Gan,Center,12000,535,600,https://www.biu.ac.il/
+Industrial Engineering and Management,Master degree,Bar Ilan University,Ramat Gan,Center,12000,505,550,https://www.biu.ac.il/
+Education,Master degree,Bar Ilan University,Ramat Gan,Center,11870,550,550,https://www.biu.ac.il/
+Chemistry,Master degree,Bar Ilan University,Ramat Gan,Center,11900,600,600,https://www.biu.ac.il/
+Economics specializing in accounting,Master degree,Bar Ilan University,Ramat Gan,Center,11500,500,620,https://www.biu.ac.il/
+Economics specialization in business administration,Master degree,Bar Ilan University,Ramat Gan,Center,12100,450,600,https://www.biu.ac.il/
+Middle Eastern studies,Master degree,Bar Ilan University,Ramat Gan,Center,12160,530,500,https://www.biu.ac.il/
+State of Israel studies,Master degree,Bar Ilan University,Ramat Gan,Center,12200,550,450,https://www.biu.ac.il/
+Humanities and social sciences - multidisciplinary,Master degree,Bar Ilan University,Ramat Gan,Center,12500,450,530,https://www.biu.ac.il/
+Social sciences - multidisciplinary,Master degree,Bar Ilan University,Ramat Gan,Center,11780,450,550,https://www.biu.ac.il/
+Humanities - multidisciplinary,Master degree,Bar Ilan University,Ramat Gan,Center,12000,600,450,https://www.biu.ac.il/
+Hebrew language,Master degree,Bar Ilan University,Ramat Gan,Center,12000,650,450,https://www.biu.ac.il/
+Geological and environmental sciences,Master degree,Bar Ilan University,Ramat Gan,Center,11870,585,650,https://www.biu.ac.il/
+Behavioral sciences,Master degree,Bar Ilan University,Ramat Gan,Center,11900,760,585,https://www.biu.ac.il/
+Life science,Master degree,Bar Ilan University,Ramat Gan,Center,11500,760,660,https://www.biu.ac.il/
+Computer science,Master degree,Bar Ilan University,Ramat Gan,Center,12100,600,660,https://www.biu.ac.il/
+Computer science and bioinformatics,Master degree,Bar Ilan University,Ramat Gan,Center,12160,450,600,https://www.biu.ac.il/
+Medical laboratory sciences,Master degree,Bar Ilan University,Ramat Gan,Center,12200,400,450,https://www.biu.ac.il/
+Judaism studies,Master degree,Bar Ilan University,Ramat Gan,Center,12500,760,430,https://www.biu.ac.il/
+Bible and Ancient Middle East,Master degree,Bar Ilan University,Ramat Gan,Center,11780,600,660,https://www.biu.ac.il/
+Mathematics,Master degree,Bar Ilan University,Ramat Gan,Center,12000,620,600,https://www.biu.ac.il/
+Mathematics and computer science,Master degree,Bar Ilan University,Ramat Gan,Center,12000,520,620,https://www.biu.ac.il/
+One-departmental management and entrepreneurship,Master degree,Bar Ilan University,Ramat Gan,Center,11870,520,520,https://www.biu.ac.il/
+Bi-departmental management,Master degree,Bar Ilan University,Ramat Gan,Center,11900,630,520,https://www.biu.ac.il/
+Hotel and tourism management,Master degree,Bar Ilan University,Ramat Gan,Center,11500,550,630,https://www.biu.ac.il/
+Health systems management,Master degree,Bar Ilan University,Ramat Gan,Center,12100,620,550,https://www.biu.ac.il/
+Information system management,Master degree,Bar Ilan University,Ramat Gan,Center,12160,550,620,https://www.biu.ac.il/
+Sociology Anthropology two departments,Master degree,Bar Ilan University,Ramat Gan,Center,12200,450,550,https://www.biu.ac.il/
+Sociology Anthropology and Management,Master degree,Bar Ilan University,Ramat Gan,Center,12500,640,550,https://www.biu.ac.il/
+Nursing,Master degree,Bar Ilan University,Ramat Gan,Center,11780,550,450,https://www.biu.ac.il/
+Foreign literature and linguistics,Master degree,Bar Ilan University,Ramat Gan,Center,12000,650,550,https://www.biu.ac.il/
+Hebrew literature,Master degree,Bar Ilan University,Ramat Gan,Center,12000,500,550,https://www.biu.ac.il/
+Social work,Master degree,Bar Ilan University,Ramat Gan,Center,11870,630,650,https://www.biu.ac.il/
+Politics and Government,Master degree,Bar Ilan University,Ramat Gan,Center,11900,650,500,https://www.biu.ac.il/
+Physiotherapy,Master degree,Bar Ilan University,Ramat Gan,Center,11500,650,600,https://www.biu.ac.il/
+Philosophy,Master degree,Bar Ilan University,Ramat Gan,Center,12100,680,650,https://www.biu.ac.il/
+Physics,Master degree,Bar Ilan University,Ramat Gan,Center,12160,737,650,https://www.biu.ac.il/
+Two-departmental psychology,Master degree,Bar Ilan University,Ramat Gan,Center,12160,650,600,https://www.biu.ac.il/
+Psychology and Management,Master degree,Bar Ilan University,Ramat Gan,Center,12200,500,680,https://www.biu.ac.il/
+Arts,Master degree,Bar Ilan University,Ramat Gan,Center,12500,630,540,https://www.biu.ac.il/
+Archaeology,Master degree,Bar Ilan University,Ramat Gan,Center,11780,650,730,https://www.biu.ac.il/
+Geography and environmental development,Master degree,Bar Ilan University,Ramat Gan,Center,12000,650,0,https://www.biu.ac.il/
+General history,Master degree,Bar Ilan University,Ramat Gan,Center,12000,680,450,https://www.biu.ac.il/
+History of the people of Israel,Master degree,Bar Ilan University,Ramat Gan,Center,11870,582,700,https://www.biu.ac.il/
+Biomedical engineering,Master degree,Bar Ilan University,Ramat Gan,Center,11900,610,0,https://www.biu.ac.il/
+Chemical engineering,Master degree,Bar Ilan University,Ramat Gan,Center,11500,660,0,https://www.biu.ac.il/
+Biotechnology engineering,Master degree,Bar Ilan University,Ramat Gan,Center,12100,705,730,https://www.biu.ac.il/
+Structural engineering,Master degree,Bar Ilan University,Ramat Gan,Center,12160,610,0,https://www.biu.ac.il/
+Materials engineering,Master degree,The University of Haifa,Haifa,North,12200,660,0,https://www.haifa.ac.il/
+Electrical and Computer Engineering,Master degree,The University of Haifa,Haifa,North,12500,580,727,https://www.haifa.ac.il/
+Computer engineering,Master degree,The University of Haifa,Haifa,North,11780,610,0,https://www.haifa.ac.il/
+Mechanical engineering,Master degree,The University of Haifa,Haifa,North,12000,640,650,https://www.haifa.ac.il/
+Data system engineering,Master degree,The University of Haifa,Haifa,North,12000,675,620,https://www.haifa.ac.il/
+Communication systems engineering,Master degree,The University of Haifa,Haifa,North,11870,640,760,https://www.haifa.ac.il/
+Software engineering,Master degree,The University of Haifa,Haifa,North,11900,690,760,https://www.haifa.ac.il/
+Industrial Engineering and Management,Master degree,The University of Haifa,Haifa,North,11500,665,760,https://www.haifa.ac.il/
+Education,Master degree,The University of Haifa,Haifa,North,12100,730,0,https://www.haifa.ac.il/
+Chemistry,Master degree,The University of Haifa,Haifa,North,12160,695,0,https://www.haifa.ac.il/
+Economics specializing in accounting,Master degree,The University of Haifa,Haifa,North,12200,575,0,https://www.haifa.ac.il/
+Economics specialization in business administration,Master degree,The University of Haifa,Haifa,North,12500,629,727,https://www.haifa.ac.il/
+Middle Eastern studies,Master degree,The University of Haifa,Haifa,North,11780,556,727,https://www.haifa.ac.il/
+State of Israel studies,Master degree,The University of Haifa,Haifa,North,12000,650,0,https://www.haifa.ac.il/
+Humanities and social sciences - multidisciplinary,Master degree,The University of Haifa,Haifa,North,12000,620,0,https://www.haifa.ac.il/
+Social sciences - multidisciplinary,Master degree,The University of Haifa,Haifa,North,11870,620,727,https://www.haifa.ac.il/
+Humanities - multidisciplinary,Master degree,The University of Haifa,Haifa,North,11900,500,450,https://www.haifa.ac.il/
+Hebrew language,Master degree,The University of Haifa,Haifa,North,11500,500,450,https://www.haifa.ac.il/
+Geological and environmental sciences,Master degree,The University of Haifa,Haifa,North,12100,525,575,https://www.haifa.ac.il/
+Behavioral sciences,Master degree,The University of Haifa,Haifa,North,12160,670,629,https://www.haifa.ac.il/
+Life science,Master degree,The University of Haifa,Haifa,North,12200,730,556,https://www.haifa.ac.il/
+Computer science,Master degree,The University of Haifa,Haifa,North,12500,545,650,https://www.haifa.ac.il/
+Computer science and bioinformatics,Master degree,The University of Haifa,Haifa,North,11780,730,620,https://www.haifa.ac.il/
+Medical laboratory sciences,Master degree,The University of Haifa,Haifa,North,12000,730,620,https://www.haifa.ac.il/
+Judaism studies,Master degree,The University of Haifa,Haifa,North,12000,730,500,https://www.haifa.ac.il/
+Bible and Ancient Middle East,Master degree,The University of Haifa,Haifa,North,11870,730,500,https://www.haifa.ac.il/
+Mathematics,Master degree,The University of Haifa,Haifa,North,11900,500,450,https://www.haifa.ac.il/
+Mathematics and computer science,Master degree,The University of Haifa,Haifa,North,11500,0,450,https://www.haifa.ac.il/
+One-departmental management and entrepreneurship,Master degree,The University of Haifa,Haifa,North,12100,655,600,https://www.haifa.ac.il/
+Bi-departmental management,Master degree,The University of Haifa,Haifa,North,12160,645,0,https://www.haifa.ac.il/
+Hotel and tourism management,Master degree,The Hebrew University of Jerusalem,Jerusalem,Jerusalem,12500,505,550,https://new.huji.ac.il/
+Health systems management,Master degree,The Hebrew University of Jerusalem,Jerusalem,Jerusalem,11780,550,550,https://new.huji.ac.il/
+Information system management,Master degree,The Hebrew University of Jerusalem,Jerusalem,Jerusalem,12000,600,600,https://new.huji.ac.il/
+Sociology Anthropology two departments,Master degree,The Hebrew University of Jerusalem,Jerusalem,Jerusalem,12000,500,620,https://new.huji.ac.il/
+Sociology Anthropology and Management,Master degree,The Hebrew University of Jerusalem,Jerusalem,Jerusalem,11870,450,600,https://new.huji.ac.il/
+Nursing,Master degree,The Hebrew University of Jerusalem,Jerusalem,Jerusalem,11900,530,500,https://new.huji.ac.il/
+Foreign literature and linguistics,Master degree,The University of Haifa,Haifa,North,11900,0,500,https://www.haifa.ac.il/
+Hebrew literature,Master degree,The University of Haifa,Haifa,North,11500,650,727,https://www.haifa.ac.il/
+Social work,Master degree,The University of Haifa,Haifa,North,12100,650,727,https://www.haifa.ac.il/
+Politics and Government,Master degree,The University of Haifa,Haifa,North,12160,570,727,https://www.haifa.ac.il/
+Physiotherapy,Master degree,The University of Haifa,Haifa,North,12200,600,620,https://www.haifa.ac.il/
+Philosophy,Master degree,The University of Haifa,Haifa,North,12500,660,0,https://www.haifa.ac.il/
+Physics,Master degree,The University of Haifa,Haifa,North,11780,660,727,https://www.haifa.ac.il/
+Two-departmental psychology,Master degree,The University of Haifa,Haifa,North,12000,705,727,https://www.haifa.ac.il/
+Psychology and Management,Master degree,The University of Haifa,Haifa,North,12000,450,0,https://www.haifa.ac.il/

@@ -1,0 +1,45 @@
+*Moduls: express, mysql2, body-parser, path, csvtojson, cookie-parser
+
+*Data Base Pahtes:
+ 
+ -DEGREE Table:
+ /CreateDegreesTable
+ /InsertDataToDegreesTable
+ /ShowDegreesTable
+ /DropDegreesTable
+
+ -USERS Table:
+ /CreateUsersTable
+ /InsertDataToUsersTable
+ /ShowUsersTable
+ /DropUsersTable
+
+ -RANKS Table:
+  /CreateRanksTable
+  /InsertDataToRanksTable
+  /ShowRanksTable
+  /DropRanksTable
+
+
+*Syntax:
+
+//DEGREE Table//
+app.get('/CreateDegreesTable',CreateDB.CreateDegreesTable);
+app.get('/InsertDataToDegreesTable',CreateDB.InsertDataToDegreesTable);
+app.get('/ShowDegreesTable',CreateDB.ShowDegreesTable);
+app.get('/DropDegreesTable',CreateDB.DropDegreesTable);
+
+//USERS Table//
+app.get('/CreateUsersTable',CreateDB.CreateUsersTable);
+app.get('/InsertDataToUsersTable',CreateDB.InsertDataToUsersTable);
+app.get('/ShowUsersTable',CreateDB.ShowUsersTable);
+app.get('/DropUsersTable',CreateDB.DropUsersTable);
+
+//RANKS Table//
+app.get('/CreateRanksTable',CreateDB.CreateRanksTable);
+app.get('/InsertDataToRanksTable',CreateDB.InsertDataToRanksTable);
+app.get('/ShowRanksTable',CreateDB.ShowRanksTable);
+app.get('/DropRanksTable',CreateDB.DropRanksTable);
+
+
+

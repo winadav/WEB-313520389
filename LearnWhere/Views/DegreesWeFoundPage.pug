@@ -1,0 +1,41 @@
+doctype html
+head
+  meta(charset='UTF-8')
+  title Degrees We Found
+  link(rel='stylesheet' href='CSS/DegreesWeFound.css')
+  script.
+    var data = !{JSON.stringify(data)};
+#logoImg
+  img(src='Graphics/logoPic1.png' alt='')
+h1 Degrees We Found
+#pageImg
+  img(src='Graphics/degreeWeFoundPic.png' alt='')
+#middle-section
+  table.table-scroll 
+    tr
+      th Degree Name
+      th Type
+      th Academic Institution
+      th Location
+      th District
+      th Cost 
+      th CombainScore
+      th PsychometricScore
+      th Link
+    
+    each i in data  
+      tr 
+        td= i.DegreeName
+        td= i.DegreeType
+        td= i.Institution 
+        td= i.Location
+        td= i.District
+        td= i.Cost
+        td= i.CombainScore 
+        td= i.PsychometricScore
+        td= i.Link
+
+#end-section
+  #buttons
+    a(href='http://localhost:3000/DegreesSearchPage')
+      button.button.backButton Back To Search

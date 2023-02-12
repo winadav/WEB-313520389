@@ -1,0 +1,97 @@
+
+- var degreeList;
+- var institutionList;
+- var data;
+- var degreeName1;
+- var institution1 ;
+
+
+doctype html
+link(rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css')
+head
+  meta(charset='UTF-8')
+  title Ranks Page
+  link(rel='stylesheet' href='CSS/RanksPage.css')
+
+
+header
+  h1 Ranks
+  p.info
+    | On this page you can find the ranking of the various educational institutions in Israel in the context of a certain department.
+    | The ranking is weighted according to several parameters that are calculated in an international way.
+nav
+  img.logoImg(src='Graphics/logoPic1.png' alt='')
+  .icon-bar
+    a(href='http://localhost:3000/HomePage')
+      i.fa.fa-home
+    a(href='http://localhost:3000/DegreesSearchPage')
+      i.fa.fa-search
+    a.active(href='http://localhost:3000/RanksPage')
+      i.fa.fa-star
+    a(href='http://localhost:3000/MyProfilePage')
+      i.fa.fa-user
+    a(href='http://localhost:3000/AboutUsPage')
+      i.fa.fa-book
+    a(href='http://localhost:3000/LoginPage')
+      i.fa.fa-key
+main
+  
+  form#form1(action="/findRanks" method= 'post') 
+    label#degLabel(for='DegreeName') Degree Name:
+    select#DegreeName(name='DegreeName' )
+     option= degreeName1
+     each i in degreeList.slice(1)
+       option= i.DegreeName 
+    
+    br
+    br
+    label#instLabel(for='AcademicInstitution') Academic Institution:
+       select#AcademicInstitution(name='AcademicInstitution' )
+         option= institution1
+         option(value='All') All
+         each n in institutionList.slice(1)
+           option= n.Institution 
+    br
+    br   
+   
+    label#radioLabel Order By:
+     input#prestigeRate(type='radio' name='fav_rate' value='prestigeRate' onchange="this.form.submit()")
+     label#rateLabels(for='prestigeRate') Prestige Rate
+     input#lecturersRate(type='radio' name='fav_rate' value='lecturersRate' onchange="this.form.submit()")
+     label#rateLabels(for='lecturersRate') Lecturers Rate
+     input#satisfactionRate(type='radio' name='fav_rate' value='satisfactionRate' onchange="this.form.submit()")
+     label#rateLabels(for='satisfactionRate') Satisfaction Rate
+     input#socialRate(type='radio' name='fav_rate' value='socialRate' onchange="this.form.submit()")
+     label#rateLabels(for='socialRate') Social Rate
+     input#totalRate(type='radio' name='fav_rate' value='totalRate' onchange="this.form.submit()")
+     label#rateLabels(for='totalRate') Total Rate
+  br 
+  br
+ 
+  table#table.table-scroll
+    tr
+      th Degree Name
+      th Institution
+      th Prestige Rate
+      th Lecturers Rate
+      th Satisfaction Rate
+      th Social Rate
+      th Total Rate
+      th Number Of Users
+    
+    each i in data  
+      tr 
+        td= i.DegreeName
+        td= i.Institution
+        td= i.Prestige 
+        td= i.Lecturers
+        td= i.Satisfaction
+        td= i.Social
+        td= i.Total 
+        td= i.NumberOfUsers
+
+
+aside
+  img.rankPic(src='Graphics/rankPic.png' alt='')
+footer
+

@@ -1,0 +1,213 @@
+header, nav, aside, footer {
+    background-color: #F0E4C8;
+}
+body {
+    background-color: #F0E4C8;
+    display: grid;
+    height: 545px;
+    grid-template-areas:
+    'nav header sidebar'
+    'nav content sidebar'
+    'nav content sidebar';
+    grid-template-columns: 0.4fr 2fr 1fr;
+    grid-template-rows: auto;
+    gap: 10px;
+
+}
+header{
+    grid-area: header;
+    text-align: center;
+}
+content{
+    grid-area: content;
+    display: flex;
+    justify-content: center;
+}
+#content1{
+    
+    text-align:center;
+    border: 5px solid rgb(58, 54, 54);
+    border-radius: 15px;
+    background-color:#d6b0326b;
+    width: 400px;
+    height: 400px;
+    display: inline-block;
+    
+}
+
+
+aside {
+    grid-area: sidebar;
+    justify-content: center;
+
+
+}
+nav {
+    grid-area: nav;
+}
+footer {
+    grid-area: footer;
+    text-align: center;
+}
+#logoImg {
+margin-top: 1%;
+margin-left: 1%;
+width: 60%;
+height: 19%;
+}
+h1 {
+font-weight: bolder;
+font-size: 60px;
+display: flex;
+justify-content: center;
+}
+
+#UserImage {
+/*margin-left: 17%;*/
+padding-top: 50%;
+width: 10%;
+}
+
+#Username {
+    text-align: center;
+    border-color: #ebe3d2c4;
+    border-radius: 20px;
+    padding: 2px;
+    margin-left: 50px;
+    font-family: system-ui;
+    font-size: 14px;
+    }
+#Password {
+    border-color: #F0E4C8;
+    border-radius: 20px;
+    padding: 2px;
+    margin-left: 55px;
+    font-family: system-ui;
+    font-size: 14px;
+    text-align: center;
+    width: 132px;
+    }
+#Email{
+    text-align: center;
+    border-color: #F0E4C8;
+    border-radius: 20px;
+    padding: 2px;
+    margin-left: 91px;
+    font-family: system-ui;
+    font-size: 14px;
+    }
+#FirstName{
+    border-color: #F0E4C8;
+    border-radius: 20px;
+    padding: 2px;
+    margin-left: 46px;
+    font-family: system-ui;
+    font-size: 14px;
+    text-align: center;
+    }
+#LastName{
+    border-color: #F0E4C8;
+    border-radius: 20px;
+    padding: 2px;
+    margin-left: 47px;
+    font-family: system-ui;
+    font-size: 14px;
+    text-align: center;
+    }
+#PhoneNum{
+    border-color: #F0E4C8;
+    border-radius: 20px;
+    padding: 2px;
+    margin-left: 8px;
+    font-family: system-ui;
+    font-size: 14px;
+    text-align: center;
+    }
+    
+#showPass{
+        margin-left: 7px;
+    }
+    
+#loginButton {
+    background-color: indianred;
+    border: none;
+    color: black;
+    text-align: center;
+    font-weight: bolder;
+    padding: 15px;
+    font-size: 16px;
+    border-radius: 30px;
+    cursor: pointer;
+    margin-right: 10%;
+    
+    }
+    
+#loginButton:hover{
+        opacity: 0.8;
+        border-color: rgba(12,5,10,0.29);
+        box-shadow: 5px 5px 10px rgba(0,0,0,0.4);
+    }
+#loginButton:active{
+        opacity: 0.7;
+    }
+#createButton {
+        border: none;
+        color: black;
+        padding: 11px;
+        text-align: center;
+        font-weight: bolder;
+        border-radius: 30px;
+        background-color: peru;
+        font-size: 16px;
+        cursor: pointer;
+        margin-right: 10%;
+        
+        
+    }
+#createButton:hover{
+        opacity: 0.8;
+        border-color: rgba(12,5,10,0.29);
+        box-shadow: 5px 5px 10px rgba(0,0,0,0.4);
+}
+#createButton:active{
+        opacity: 0.7;
+    }
+#text{
+font-style: italic;
+font-weight: bold;
+margin-left: 25%;
+margin-top: 2%;
+}
+
+.error {
+    color: darkred;
+    font-style: italic;
+    font-weight: bolder;
+    font-size: 15px;
+
+}
+#labels2{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: system-ui;
+    color: rgb(17, 3, 49) ;
+}
+
+#labelPassword{
+font-size: 20px;
+font-weight: bold;
+font-family: system-ui;
+color: rgb(17, 3, 49) ;
+margin-left: 27px;
+}
+
+#form1{
+    margin-top: 5%;
+}
+#message{
+    color: darkred;
+    font-size: 14px;
+font-weight: bold;
+font-family: system-ui;
+}
+

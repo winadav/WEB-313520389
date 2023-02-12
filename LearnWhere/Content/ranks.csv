@@ -1,0 +1,400 @@
+DegreeName,Institution,Prestige,Lecturers,Satisfaction,Social,Total,NumberOfUsers
+Arts,Ben Gurion University of the Negev,6,9.9,7.5,6.7,30,2
+Archaeology,Ben Gurion University of the Negev,7.5,7.3,4.7,8.6,28,2
+Geography and environmental development,Ben Gurion University of the Negev,6.1,6.3,4.6,9.3,26.3,2
+General history,Ben Gurion University of the Negev,8.4,7.3,9.7,1.4,26.9,2
+History of the people of Israel,Ben Gurion University of the Negev,1.7,5.4,9.6,8.1,24.8,2
+Biomedical Engineering,Ben Gurion University of the Negev,3.6,4.2,6.1,5.6,19.5,2
+chemical engineering,Ben Gurion University of the Negev,7.1,3.9,7.2,3.6,21.8,2
+Biotechnology Engineering,Ben Gurion University of the Negev,2.9,3.1,6.3,8.9,21.2,2
+Structural engineering,Ben Gurion University of the Negev,1.8,1.1,3.5,8.5,14.9,2
+Materials Engineering,Ben Gurion University of the Negev,2.6,9.9,9.6,4.1,26.1,2
+Electrical and Computer Engineering,Ben Gurion University of the Negev,0.6,7.2,3.8,8.4,20,2
+computer engineering,Ben Gurion University of the Negev,8,7.4,8.7,4.7,28.7,2
+Mechanical Engineering,Ben Gurion University of the Negev,0.2,6.1,4.9,9,20.1,2
+data system engineering,Ben Gurion University of the Negev,6.6,8.5,8.9,0.5,24.5,2
+Communication systems engineering,Ben Gurion University of the Negev,8.2,4,3,8.7,24,2
+Software Engineering,Ben Gurion University of the Negev,1.6,5.9,2.1,1.8,11.3,2
+Industrial Engineering and Management,Ben Gurion University of the Negev,6.9,4.8,9,3.7,24.3,2
+Education,Ben Gurion University of the Negev,5.2,8.7,3.5,4.1,21.4,2
+chemistry,Ben Gurion University of the Negev,3.2,6.5,7.4,2.2,19.4,2
+Economics specializing in accounting,Ben Gurion University of the Negev,7.5,3.5,3.5,4.7,19.3,2
+Economics specialization in business administration,Ben Gurion University of the Negev,1.6,5.3,5.9,5.8,18.6,2
+Middle Eastern studies,Ben Gurion University of the Negev,9.6,3.7,7.4,5.3,26,2
+State of Israel studies,Ben Gurion University of the Negev,5,3.7,9.6,1.4,19.7,2
+Humanities and social sciences - multidisciplinary,Ben Gurion University of the Negev,2.9,9.7,0.6,7.1,20.2,2
+Social sciences - multidisciplinary,Ben Gurion University of the Negev,5.4,4.2,8,9.7,27.3,2
+Humanities - multidisciplinary,Ben Gurion University of the Negev,8.6,6.1,3,3,20.7,2
+Hebrew language,Ben Gurion University of the Negev,9.5,7.4,5.7,2.8,25.5,2
+Geological and environmental sciences,Ben Gurion University of the Negev,3.9,3.9,2.4,8.3,18.6,2
+Behavioral Sciences,Ben Gurion University of the Negev,5.5,9.7,0.2,2.3,17.7,2
+Life science,Ben Gurion University of the Negev,4.6,7.4,4.3,3.4,19.7,2
+Computer Science,Ben Gurion University of the Negev,9.1,1.9,4.8,1.7,17.5,2
+Computer science and bioinformatics,Ben Gurion University of the Negev,1.1,7,0.4,4.4,12.9,2
+Medical Laboratory Sciences,Ben Gurion University of the Negev,1.1,8.7,0.1,0.6,10.5,2
+Judaism studies,Ben Gurion University of the Negev,6,7.9,7.7,2.9,24.5,2
+Bible and Ancient Middle East,Ben Gurion University of the Negev,7.4,5.1,8.6,4.8,25.9,2
+Mathematics,Ben Gurion University of the Negev,5.2,8.1,9.3,5.3,27.9,2
+Mathematics and computer science,Ben Gurion University of the Negev,9.5,1.8,1.3,3.2,15.8,2
+One-departmental management and entrepreneurship,Ben Gurion University of the Negev,3.3,5.4,3.4,5,17.1,2
+Bi-departmental management,Ben Gurion University of the Negev,2,7.1,3.6,6.7,19.5,2
+Hotel and tourism management,Ben Gurion University of the Negev,1.4,6.2,5,9.9,22.5,2
+Health Systems Management,Ben Gurion University of the Negev,3.2,4.5,3.3,5.9,16.9,2
+information system management,Ben Gurion University of the Negev,1.1,4.5,5.1,9.1,19.8,2
+Sociology Anthropology two departments,Ben Gurion University of the Negev,0.5,0.7,7.7,3.5,12.3,2
+Sociology Anthropology and Management,Ben Gurion University of the Negev,6.7,1.7,3.3,0.8,12.5,2
+Nursing,Ben Gurion University of the Negev,2.2,9.7,5.4,6.2,23.5,2
+Foreign literature and linguistics,Ben Gurion University of the Negev,2.6,5.3,1.1,4.3,13.2,2
+Hebrew literature,Ben Gurion University of the Negev,9,2.8,2.2,6.6,20.7,2
+social work,Ben Gurion University of the Negev,7.8,2.1,2.1,4.1,16.2,2
+Politics and Government,Ben Gurion University of the Negev,9,5.5,3.6,2.5,20.6,2
+physiotherapy,Ben Gurion University of the Negev,5,1.9,3.4,9.9,20.2,2
+philosophy,Ben Gurion University of the Negev,0.1,2.6,4.6,4.5,11.8,2
+physics,Ben Gurion University of the Negev,0.9,7.2,8.5,0.5,17.1,2
+Two-departmental psychology,Ben Gurion University of the Negev,1.1,7.3,0.3,8,16.8,2
+Psychology and Management,Ben Gurion University of the Negev,9.9,10,1.7,1.7,23.2,2
+pharmacy,Ben Gurion University of the Negev,4.2,6.7,9.4,1.1,21.4,2
+medicine,Ben Gurion University of the Negev,3.6,0.4,1.4,1.9,7.4,2
+emergency Medicine,Ben Gurion University of the Negev,9.2,3.3,5.6,2.5,20.6,2
+Arts,Tel Aviv University,1.7,4.7,0.4,0,6.8,2
+Archaeology,Tel Aviv University,4.7,2.4,9.2,9.4,25.8,2
+Geography and environmental development,Tel Aviv University,4,6.3,2.9,7.1,20.3,2
+General history,Tel Aviv University,7,4.6,3.9,7.6,23.1,2
+History of the people of Israel,Tel Aviv University,1.9,1,8.7,7.3,18.9,2
+Biomedical Engineering,Tel Aviv University,6,2.1,2.4,3.3,13.7,2
+chemical engineering,Tel Aviv University,1.3,8.5,2,7.5,19.3,2
+Biotechnology Engineering,Tel Aviv University,4,2.7,5.3,6.6,18.5,2
+Structural engineering,Tel Aviv University,8.4,2.7,3.2,5.6,19.8,2
+Materials Engineering,Tel Aviv University,9,0.2,4.2,7.3,20.7,2
+Electrical and Computer Engineering,Tel Aviv University,9.5,3.6,8.7,2.2,23.9,2
+computer engineering,Tel Aviv University,9.3,2.4,6,3,20.7,2
+Mechanical Engineering,Tel Aviv University,4.5,8.1,0.3,8,20.9,2
+data system engineering,Tel Aviv University,9.6,4.1,0.6,8.6,22.9,2
+Communication systems engineering,Tel Aviv University,3.9,9.3,9.4,7.3,29.9,2
+Software Engineering,Tel Aviv University,3.3,9.7,8.2,0.2,21.4,2
+Industrial Engineering and Management,Tel Aviv University,9.4,0,2.8,0.8,13.1,2
+Education,Tel Aviv University,3.3,1.3,2.8,8.7,16.1,2
+chemistry,Tel Aviv University,0.4,7.3,1.7,9.5,18.9,2
+Economics specializing in accounting,Tel Aviv University,6.4,3.5,2.6,5.3,17.8,2
+Economics specialization in business administration,Tel Aviv University,4.1,8.4,4.1,5.8,22.3,2
+Middle Eastern studies,Tel Aviv University,7.7,5.4,5.5,0.6,19.3,2
+State of Israel studies,Tel Aviv University,0.3,6.2,8,10,24.5,2
+Humanities and social sciences - multidisciplinary,Tel Aviv University,3.8,8.1,0.1,2.3,14.3,2
+Social sciences - multidisciplinary,Tel Aviv University,2,2.6,8.4,5.1,18.1,2
+Humanities - multidisciplinary,Tel Aviv University,8.5,6.1,1,3.5,19.2,2
+Hebrew language,Tel Aviv University,5.3,3.1,8.3,8.9,25.6,2
+Geological and environmental sciences,Tel Aviv University,8,4.7,8.9,2.8,24.5,2
+Behavioral Sciences,Tel Aviv University,0.2,9.8,4.9,9.5,24.4,2
+Life science,Tel Aviv University,4.9,9.2,4.8,9.6,28.5,2
+Computer Science,Tel Aviv University,5.5,5,5,8.9,24.4,2
+Computer science and bioinformatics,Tel Aviv University,3.2,3.1,5.2,9.3,20.8,2
+Medical Laboratory Sciences,Tel Aviv University,8.6,8.6,7.2,6.8,31.2,2
+Judaism studies,Tel Aviv University,9.7,6.4,3.9,3.7,23.7,2
+Bible and Ancient Middle East,Tel Aviv University,7.2,2,9.5,6.3,25,2
+Mathematics,Tel Aviv University,9.1,0.3,6.8,8.9,25,2
+Mathematics and computer science,Tel Aviv University,7,3.1,6,7.9,24,2
+One-departmental management and entrepreneurship,Tel Aviv University,9.3,9.8,4.1,5.4,28.6,2
+Bi-departmental management,Tel Aviv University,3.6,5.7,6.6,5.7,21.6,2
+Hotel and tourism management,Tel Aviv University,8,2.1,7.4,4.4,22,2
+Health Systems Management,Tel Aviv University,8.2,5,2.5,4.7,20.4,2
+information system management,Tel Aviv University,6.9,7.1,4.4,3.8,22.3,2
+Sociology Anthropology two departments,Tel Aviv University,9.4,7.9,9.6,4.5,31.5,2
+Sociology Anthropology and Management,Tel Aviv University,3.8,2.6,5.2,1.8,13.5,2
+Nursing,Tel Aviv University,3.5,3.3,7.6,1.5,15.9,2
+Foreign literature and linguistics,Tel Aviv University,5.5,4.7,2.2,2.6,15.1,2
+Hebrew literature,Tel Aviv University,8,0.2,6.4,4.8,19.4,2
+social work,Tel Aviv University,9.8,8.7,9.4,8.8,36.7,2
+Politics and Government,Tel Aviv University,0,2.8,7.9,3.6,14.3,2
+physiotherapy,Tel Aviv University,8.7,1,6.7,0.6,17,2
+philosophy,Tel Aviv University,4.5,0.1,2.4,7.6,14.6,2
+physics,Tel Aviv University,3.5,6.9,0.6,1.1,12.1,2
+Two-departmental psychology,Tel Aviv University,6.2,7.4,9.5,2.9,25.9,2
+Psychology and Management,Tel Aviv University,7.3,8.4,0.7,1.4,17.9,2
+pharmacy,Tel Aviv University,8.2,8.9,5.2,1.3,23.7,2
+medicine,Tel Aviv University,4,6.3,0.7,8.5,19.6,2
+emergency Medicine,Tel Aviv University,4.6,4.1,2.3,0.6,11.7,2
+Arts,Bar Ilan University,8.8,7.1,8,4.2,28.1,2
+Archaeology,Bar Ilan University,2,7,7.5,2.7,19.3,2
+Geography and environmental development,Bar Ilan University,9.9,3.5,6.3,2.5,22.2,2
+General history,Bar Ilan University,8.3,3.5,4.3,3.3,19.4,2
+History of the people of Israel,Bar Ilan University,7.1,4.4,2.3,7.5,21.3,2
+Biomedical Engineering,Bar Ilan University,3.4,8.9,6.2,6.9,25.5,2
+chemical engineering,Bar Ilan University,8.6,4.3,5.9,0,18.9,2
+Biotechnology Engineering,Bar Ilan University,3.8,8,3.6,0.1,15.5,2
+Structural engineering,Bar Ilan University,7.6,9.7,9.4,6.4,33.1,2
+Materials Engineering,Bar Ilan University,4.9,9.7,7.4,2.9,24.9,2
+Electrical and Computer Engineering,Bar Ilan University,8.1,7.8,9.8,9.5,35.1,2
+computer engineering,Bar Ilan University,9.2,2,5.7,8.3,25.2,2
+Mechanical Engineering,Bar Ilan University,9.3,0.7,1.8,6.2,18.1,2
+data system engineering,Bar Ilan University,1.5,2,7.9,0.7,12.1,2
+Communication systems engineering,Bar Ilan University,6.1,5.2,4.5,4.7,20.5,2
+Software Engineering,Bar Ilan University,8.3,2.1,6.6,0.9,18,2
+Industrial Engineering and Management,Bar Ilan University,6,5.3,1.6,2.5,15.3,2
+Education,Bar Ilan University,4.5,2,0.7,6.1,13.2,2
+chemistry,Bar Ilan University,0.7,3.7,1.5,5.4,11.2,2
+Economics specializing in accounting,Bar Ilan University,5.7,8.6,5.2,9.4,28.8,2
+Economics specialization in business administration,Bar Ilan University,7,7.5,1.1,8.3,23.9,2
+Middle Eastern studies,Bar Ilan University,7.9,1.4,1.3,4,14.7,2
+State of Israel studies,Bar Ilan University,9.2,4.3,2.1,9.6,25.1,2
+Humanities and social sciences - multidisciplinary,Bar Ilan University,3.5,9.8,7.2,9.9,30.4,2
+Social sciences - multidisciplinary,Bar Ilan University,6.3,7.1,5.7,4.3,23.4,2
+Humanities - multidisciplinary,Bar Ilan University,3.7,5.9,1.1,2.6,13.3,2
+Hebrew language,Bar Ilan University,3,9.8,6.3,1.6,20.7,2
+Geological and environmental sciences,Bar Ilan University,3.8,1.8,5.2,4.2,14.9,2
+Behavioral Sciences,Bar Ilan University,0.6,5.9,9.1,2.3,17.9,2
+Life science,Bar Ilan University,7.6,3.4,4.3,0.8,16.2,2
+Computer Science,Bar Ilan University,2.8,9.5,8.4,0.5,21.2,2
+Computer science and bioinformatics,Bar Ilan University,1.7,3.6,7.6,1.9,14.9,2
+Medical Laboratory Sciences,Bar Ilan University,6.6,5.6,1.9,3.4,17.5,2
+Judaism studies,Bar Ilan University,2.9,0.6,1.4,2.5,7.4,2
+Bible and Ancient Middle East,Bar Ilan University,2.3,7.9,7.2,1.3,18.7,2
+Mathematics,Bar Ilan University,8.4,6,4.1,8.1,26.6,2
+Mathematics and computer science,Bar Ilan University,0.7,3.8,3.2,9.8,17.5,2
+One-departmental management and entrepreneurship,Bar Ilan University,5.8,3.3,6.8,9.5,25.4,2
+Bi-departmental management,Bar Ilan University,8.6,0,2.9,4.8,16.4,2
+Hotel and tourism management,Bar Ilan University,4.4,6.6,8.3,9.8,29.1,2
+Health Systems Management,Bar Ilan University,9.9,3.4,8.9,6.1,28.2,2
+information system management,Bar Ilan University,7.1,6.4,7.3,3.1,23.9,2
+Sociology Anthropology two departments,Bar Ilan University,0.4,0.9,4.9,7.2,13.3,2
+Sociology Anthropology and Management,Bar Ilan University,3.5,4.4,1.9,4.9,14.7,2
+Nursing,Bar Ilan University,6.7,2.8,8,0.7,18.2,2
+Foreign literature and linguistics,Bar Ilan University,1.8,9.7,3.3,8.2,23,2
+Hebrew literature,Bar Ilan University,2.4,0.8,9.2,5,17.3,2
+social work,Bar Ilan University,1,1,1.6,1.9,5.6,2
+Politics and Government,Bar Ilan University,2.4,0.3,6.9,6.6,16.1,2
+physiotherapy,Bar Ilan University,0.7,0.9,2.4,9.2,13.3,2
+philosophy,Bar Ilan University,4.2,9.7,4.6,3.2,21.8,2
+physics,Bar Ilan University,9.7,9.5,6,9.4,34.6,2
+Two-departmental psychology,Bar Ilan University,4.7,9.4,1.1,6.3,21.6,2
+Psychology and Management,Bar Ilan University,7.8,5.8,9.6,2.3,25.5,2
+pharmacy,Bar Ilan University,1.2,0.3,1.3,8.4,11.2,2
+medicine,Bar Ilan University,3.7,4.6,5.5,9.1,22.9,2
+emergency Medicine,Bar Ilan University,3.4,9.2,5.5,3.9,22,2
+Arts,The University of Haifa,10,8.2,2.2,6.2,26.5,2
+Archaeology,The University of Haifa,5.5,0.9,5.1,1.2,12.7,2
+Geography and environmental development,The University of Haifa,5.1,7.6,9.6,3.9,26.3,2
+General history,The University of Haifa,1.8,8,4.6,2.3,16.7,2
+History of the people of Israel,The University of Haifa,7.3,1,4.2,5.1,17.7,2
+Biomedical Engineering,The University of Haifa,7.5,0.2,7.2,4.8,19.6,2
+chemical engineering,The University of Haifa,5.9,8.7,2.9,9.2,26.7,2
+Biotechnology Engineering,The University of Haifa,7,9.3,4.2,5.9,26.4,2
+Structural engineering,The University of Haifa,1.7,2.2,8.2,8.9,21,2
+Materials Engineering,The University of Haifa,9.5,6.8,4,4.1,24.5,2
+Electrical and Computer Engineering,The University of Haifa,9.2,7.6,9.8,6.5,33.1,2
+computer engineering,The University of Haifa,8.3,7.6,6.8,0.7,23.3,2
+Mechanical Engineering,The University of Haifa,1.2,1.3,5,7.6,15,2
+data system engineering,The University of Haifa,2.1,6.8,0.4,0.9,10.3,2
+Communication systems engineering,The University of Haifa,4.8,9,6.2,8.8,28.7,2
+Software Engineering,The University of Haifa,2.1,9.2,1,3.1,15.4,2
+Industrial Engineering and Management,The University of Haifa,8.3,5,2.2,2.6,18.1,2
+Education,The University of Haifa,0.7,1.8,3.4,4.4,10.4,2
+chemistry,The University of Haifa,1.4,6.5,9,5.4,22.4,2
+Economics specializing in accounting,The University of Haifa,3.4,2.5,1.2,6,13.1,2
+Economics specialization in business administration,The University of Haifa,1.6,8.8,2.6,9.4,22.5,2
+Middle Eastern studies,The University of Haifa,6.4,1.8,4.6,3.2,16,2
+State of Israel studies,The University of Haifa,4,3,2.8,4.9,14.7,2
+Humanities and social sciences - multidisciplinary,The University of Haifa,9.1,3.2,7.6,2.8,22.8,2
+Social sciences - multidisciplinary,The University of Haifa,2.9,9.2,8,7.2,27.3,2
+Humanities - multidisciplinary,The University of Haifa,9.3,5.3,4.5,8.8,27.9,2
+Hebrew language,The University of Haifa,1.3,8.3,1,8,18.6,2
+Geological and environmental sciences,The University of Haifa,0.4,6.2,2,5.9,14.5,2
+Behavioral Sciences,The University of Haifa,3.3,1.7,7.7,3.2,15.9,2
+Life science,The University of Haifa,4.8,4.6,8.6,1.9,19.9,2
+Computer Science,The University of Haifa,5.2,7.9,6.2,6.5,25.8,2
+Computer science and bioinformatics,The University of Haifa,8,6.9,6.5,2.5,23.8,2
+Medical Laboratory Sciences,The University of Haifa,6.3,1.5,2.8,1.6,12.2,2
+Judaism studies,The University of Haifa,2.9,9,7.2,5.3,24.4,2
+Bible and Ancient Middle East,The University of Haifa,1.7,0.2,4,2.8,8.7,2
+Mathematics,The University of Haifa,1.3,5,7.7,7.4,21.3,2
+Mathematics and computer science,The University of Haifa,7.1,7.3,0.7,3.2,18.4,2
+One-departmental management and entrepreneurship,The University of Haifa,1.1,8.3,1.6,5.9,16.9,2
+Bi-departmental management,The University of Haifa,6.7,4,1.5,5.4,17.6,2
+Hotel and tourism management,The University of Haifa,0.9,4.5,1.5,1.3,8.1,2
+Health Systems Management,The University of Haifa,6,0.9,1.9,6.7,15.5,2
+information system management,The University of Haifa,1.7,2,6.7,4.2,14.6,2
+Sociology Anthropology two departments,The University of Haifa,7.9,5.9,9.8,1.1,24.7,2
+Sociology Anthropology and Management,The University of Haifa,7.2,1,7.5,1.9,17.6,2
+Nursing,The University of Haifa,5.2,5.4,4.4,5.5,20.6,2
+Foreign literature and linguistics,The University of Haifa,3.6,6.3,1.6,5,16.5,2
+Hebrew literature,The University of Haifa,8.3,4.7,0.7,6.8,20.6,2
+social work,The University of Haifa,2,7.6,3.6,7.5,20.7,2
+Politics and Government,The University of Haifa,6.4,9.7,0.4,8.1,24.6,2
+physiotherapy,The University of Haifa,8.3,7.2,2.4,7.2,25,2
+philosophy,The University of Haifa,4.9,3,8.2,6,22,2
+physics,The University of Haifa,9.1,8.8,3,9.6,30.6,2
+Two-departmental psychology,The University of Haifa,0.1,6.6,3.8,6.5,17,2
+Psychology and Management,The University of Haifa,8.6,5.7,3.9,7.2,25.4,2
+pharmacy,The University of Haifa,9.2,3,1.8,3.9,17.9,2
+medicine,The University of Haifa,6.1,7.6,8.8,3.9,26.5,2
+emergency Medicine,The University of Haifa,6.1,6.1,4.9,2.9,20.1,2
+Arts,The Hebrew University of Jerusalem,9.2,0,0.3,7.3,16.8,2
+Archaeology,The Hebrew University of Jerusalem,5.1,1.5,3.3,7.7,17.6,2
+Geography and environmental development,The Hebrew University of Jerusalem,4,1.9,3.8,8.8,18.5,2
+General history,The Hebrew University of Jerusalem,2.1,8.8,7.3,6,24.2,2
+History of the people of Israel,The Hebrew University of Jerusalem,4.6,9.4,7,8.9,29.8,2
+Biomedical Engineering,The Hebrew University of Jerusalem,9,5.8,1.8,9.2,25.7,2
+chemical engineering,The Hebrew University of Jerusalem,3.9,3.9,8.6,8.7,25,2
+Biotechnology Engineering,The Hebrew University of Jerusalem,7.4,1.2,8,4.2,20.9,2
+Structural engineering,The Hebrew University of Jerusalem,8,0,2.6,6.2,16.8,2
+Materials Engineering,The Hebrew University of Jerusalem,1,0.8,8.5,3,13.3,2
+Electrical and Computer Engineering,The Hebrew University of Jerusalem,8.1,3.2,3.5,9.7,24.5,2
+computer engineering,The Hebrew University of Jerusalem,5.3,6,8.7,7.8,27.8,2
+Mechanical Engineering,The Hebrew University of Jerusalem,5.1,4.4,8,2.6,20.1,2
+data system engineering,The Hebrew University of Jerusalem,3.6,9.3,5.3,4.1,22.3,2
+Communication systems engineering,The Hebrew University of Jerusalem,7.3,8.8,7.3,6.9,30.2,2
+Software Engineering,The Hebrew University of Jerusalem,9.9,1.2,8.9,7.4,27.5,2
+Industrial Engineering and Management,The Hebrew University of Jerusalem,6.6,2.4,6.9,4.5,20.4,2
+Education,The Hebrew University of Jerusalem,6.4,4.3,8.9,3.6,23.2,2
+chemistry,The Hebrew University of Jerusalem,4.2,7.2,6.8,9.2,27.4,2
+Economics specializing in accounting,The Hebrew University of Jerusalem,9,4.8,7.2,0.7,21.8,2
+Economics specialization in business administration,The Hebrew University of Jerusalem,1.5,9.6,3.9,7.9,22.9,2
+Middle Eastern studies,The Hebrew University of Jerusalem,1.5,9.7,9.2,1.4,21.9,2
+State of Israel studies,The Hebrew University of Jerusalem,5.2,7.8,5,5,23,2
+Humanities and social sciences - multidisciplinary,The Hebrew University of Jerusalem,0.1,1.5,4.9,0.8,7.3,2
+Social sciences - multidisciplinary,The Hebrew University of Jerusalem,4.7,7.6,6.9,4.3,23.5,2
+Humanities - multidisciplinary,The Hebrew University of Jerusalem,6,8.9,0.7,4.6,20.3,2
+Hebrew language,The Hebrew University of Jerusalem,9.2,1.6,1.4,8.2,20.4,2
+Geological and environmental sciences,The Hebrew University of Jerusalem,0.2,0.7,7.5,8.6,16.9,2
+Behavioral Sciences,The Hebrew University of Jerusalem,9.2,5,9.1,1.1,24.4,2
+Life science,The Hebrew University of Jerusalem,6.7,9.8,3.5,1.3,21.3,2
+Computer Science,The Hebrew University of Jerusalem,4.4,0.1,8.1,8.5,21.1,2
+Computer science and bioinformatics,The Hebrew University of Jerusalem,8.2,6.5,3.9,6.2,24.8,2
+Medical Laboratory Sciences,The Hebrew University of Jerusalem,4.1,5.7,6.7,4.3,20.8,2
+Judaism studies,The Hebrew University of Jerusalem,5.1,5.9,0.1,1.1,12.3,2
+Bible and Ancient Middle East,The Hebrew University of Jerusalem,0.2,5.5,0.4,7.3,13.3,2
+Mathematics,The Hebrew University of Jerusalem,9,3.3,4.3,9.6,26.2,2
+Mathematics and computer science,The Hebrew University of Jerusalem,6.2,9.2,9.6,7.2,32.2,2
+One-departmental management and entrepreneurship,The Hebrew University of Jerusalem,5.1,2.4,8.2,9.4,25.2,2
+Bi-departmental management,The Hebrew University of Jerusalem,6.3,4.5,7.1,6.5,24.4,2
+Hotel and tourism management,The Hebrew University of Jerusalem,5.4,4.7,4.1,6.7,20.9,2
+Health Systems Management,The Hebrew University of Jerusalem,3.3,5.2,6.1,4.2,18.8,2
+information system management,The Hebrew University of Jerusalem,9.7,5.8,10,1.6,27.1,2
+Sociology Anthropology two departments,The Hebrew University of Jerusalem,2.3,5.3,9.2,6.1,22.9,2
+Sociology Anthropology and Management,The Hebrew University of Jerusalem,6,1.1,9,7.6,23.7,2
+Nursing,The Hebrew University of Jerusalem,7.6,5.6,1.1,8.7,23.1,2
+Foreign literature and linguistics,The Hebrew University of Jerusalem,6.2,9.2,5.1,7.1,27.6,2
+Hebrew literature,The Hebrew University of Jerusalem,1.6,3.2,3.3,1.4,9.6,2
+social work,The Hebrew University of Jerusalem,1.7,8.5,4.4,7.1,21.7,2
+Politics and Government,The Hebrew University of Jerusalem,5.7,0.9,4.6,0.6,11.7,2
+physiotherapy,The Hebrew University of Jerusalem,4.8,3.6,8.4,3.8,20.6,3
+philosophy,The Hebrew University of Jerusalem,8,7.6,8.8,4.8,29.2,3
+physics,The Hebrew University of Jerusalem,2,7.2,1.5,0.1,10.8,3
+Two-departmental psychology,The Hebrew University of Jerusalem,7.5,8.6,1.3,5,22.4,3
+Psychology and Management,The Hebrew University of Jerusalem,9.7,7.5,4.6,9,30.9,3
+pharmacy,The Hebrew University of Jerusalem,2.9,8.1,6.8,9,26.8,3
+medicine,The Hebrew University of Jerusalem,2,0.8,5.5,7.9,16.2,3
+emergency Medicine,The Hebrew University of Jerusalem,7.1,9.4,9.8,9.8,36.1,3
+Arts,The Weizmann Institute of Science,7.6,9.3,9.7,2.2,28.7,3
+Archaeology,The Weizmann Institute of Science,9.6,3.7,5.8,5.5,24.6,3
+Geography and environmental development,The Weizmann Institute of Science,8.3,6,4.6,5,23.8,3
+General history,The Weizmann Institute of Science,1.6,4,5.6,2.9,14.2,3
+History of the people of Israel,The Weizmann Institute of Science,6.9,6.2,5.6,4.5,23.2,3
+Biomedical Engineering,The Weizmann Institute of Science,4,6.3,9.4,4.4,24.1,3
+chemical engineering,The Weizmann Institute of Science,9.5,0.4,5.1,2.2,17.3,3
+Biotechnology Engineering,The Weizmann Institute of Science,1.5,1.4,9.1,5.3,17.4,3
+Structural engineering,The Weizmann Institute of Science,8.1,7.3,4.6,7.3,27.2,3
+Materials Engineering,The Weizmann Institute of Science,1,2.8,8,3.4,15.2,3
+Electrical and Computer Engineering,The Weizmann Institute of Science,1.3,9.2,2.6,4.5,17.6,3
+computer engineering,The Weizmann Institute of Science,1.2,2.2,4.8,5,13.2,3
+Mechanical Engineering,The Weizmann Institute of Science,5.1,3.6,3.4,9.8,21.9,3
+data system engineering,The Weizmann Institute of Science,3.1,4.2,5.9,9.3,22.5,3
+Communication systems engineering,The Weizmann Institute of Science,4.4,0.8,1.7,2.1,9,3
+Software Engineering,The Weizmann Institute of Science,1.8,5.2,1.3,9.4,17.8,3
+Industrial Engineering and Management,The Weizmann Institute of Science,7.7,5.8,3.3,9.4,26.2,3
+Education,The Weizmann Institute of Science,7.7,9.3,0.1,8.4,25.5,3
+chemistry,The Weizmann Institute of Science,7.1,8.9,7.2,9.3,32.4,3
+Economics specializing in accounting,The Weizmann Institute of Science,8.4,8.5,6.1,9.2,32.2,3
+Economics specialization in business administration,The Weizmann Institute of Science,7.7,8.2,7.2,10,33.1,3
+Middle Eastern studies,The Weizmann Institute of Science,0.9,8.1,7.1,2.5,18.6,2
+State of Israel studies,The Weizmann Institute of Science,2.2,8.1,9.2,1.4,20.9,2
+Humanities and social sciences - multidisciplinary,The Weizmann Institute of Science,4.3,0.7,4.2,1.9,11.1,2
+Social sciences - multidisciplinary,The Weizmann Institute of Science,4.9,1.2,5.2,0.5,11.8,2
+Humanities - multidisciplinary,The Weizmann Institute of Science,4.3,4.9,7.4,4,20.7,2
+Hebrew language,The Weizmann Institute of Science,4.8,3.5,8,2.8,19.1,2
+Geological and environmental sciences,The Weizmann Institute of Science,1.5,9.6,5.2,2.3,18.6,2
+Behavioral Sciences,The Weizmann Institute of Science,5,5.3,1.8,3.1,15.2,2
+Life science,The Weizmann Institute of Science,6.1,0,7.6,8.5,22.2,2
+Computer Science,The Weizmann Institute of Science,9.5,6.4,1.2,5.4,22.5,2
+Computer science and bioinformatics,The Weizmann Institute of Science,8.4,3.8,1.8,0.7,14.7,2
+Medical Laboratory Sciences,The Weizmann Institute of Science,5,6,1.7,9.5,22.2,2
+Judaism studies,The Weizmann Institute of Science,1,9.1,4.8,9.1,24,2
+Bible and Ancient Middle East,The Weizmann Institute of Science,1.9,6.6,9.7,7.9,26.1,2
+Mathematics,The Weizmann Institute of Science,8.9,3.3,1.4,3.5,17.1,2
+Mathematics and computer science,The Weizmann Institute of Science,1.9,1.4,5.1,9.6,18,2
+One-departmental management and entrepreneurship,The Weizmann Institute of Science,3.7,1.4,1,6.3,12.3,2
+Bi-departmental management,The Weizmann Institute of Science,6.6,1.9,1.5,9.7,19.7,2
+Hotel and tourism management,The Weizmann Institute of Science,4.7,7.6,3.1,8.8,24.3,2
+Health Systems Management,The Weizmann Institute of Science,4.5,6.8,0.1,3.2,14.6,2
+information system management,The Weizmann Institute of Science,5.2,10,8.6,5.3,29.2,2
+Sociology Anthropology two departments,The Weizmann Institute of Science,6.9,5.1,9.8,1.6,23.4,2
+Sociology Anthropology and Management,The Weizmann Institute of Science,2.9,3.2,3.5,2.7,12.4,2
+Nursing,The Weizmann Institute of Science,8.4,3.5,3.4,6.3,21.6,2
+Foreign literature and linguistics,The Weizmann Institute of Science,7.9,6.1,2.3,9,25.3,2
+Hebrew literature,The Weizmann Institute of Science,5.5,4.4,0.8,5.4,16.1,2
+social work,The Weizmann Institute of Science,7.4,1.3,2.5,4.5,15.6,2
+Politics and Government,The Weizmann Institute of Science,8.9,2.4,3.4,7.9,22.6,2
+physiotherapy,The Weizmann Institute of Science,2.5,8.2,8,7.8,26.4,2
+philosophy,The Weizmann Institute of Science,3.6,6.8,6.1,5.3,21.8,2
+physics,The Weizmann Institute of Science,4.6,2.4,4.4,1.3,12.7,2
+Two-departmental psychology,The Weizmann Institute of Science,6.5,5.3,9.4,5.3,26.4,2
+Psychology and Management,The Weizmann Institute of Science,9.4,7.2,6.6,1.9,25.1,2
+pharmacy,The Weizmann Institute of Science,8.9,5.6,9.9,6.9,31.3,2
+medicine,The Weizmann Institute of Science,3,0.8,9.2,5.3,18.4,2
+emergency Medicine,The Weizmann Institute of Science,5.4,7.5,0.1,6.3,19.3,2
+Arts,Ariel University,8.9,6.6,2.3,5.5,23.4,2
+Archaeology,Ariel University,8.7,9,0.5,7.8,25.9,2
+Geography and environmental development,Ariel University,8.2,7.7,8.3,8,32.2,2
+General history,Ariel University,5,8.1,4.5,2.8,20.5,1
+History of the people of Israel,Ariel University,9.3,0.4,5,6.4,21.1,1
+Biomedical Engineering,Ariel University,2,3.3,5.5,2.6,13.5,1
+chemical engineering,Ariel University,6.4,5.5,6.4,8.9,27.3,1
+Biotechnology Engineering,Ariel University,1.4,0.8,9.3,4.9,16.5,1
+Structural engineering,Ariel University,6,3.3,3.6,0.1,13.1,1
+Materials Engineering,Ariel University,5.8,9.4,5.8,0.3,21.3,1
+Electrical and Computer Engineering,Ariel University,4.3,2.4,2.2,6.1,15,1
+computer engineering,Ariel University,0.6,0.8,4.6,5.7,11.7,1
+Mechanical Engineering,Ariel University,9.9,8.2,0.6,5.9,24.5,1
+data system engineering,Ariel University,4.7,7.9,4.1,7.4,24,1
+Communication systems engineering,Ariel University,4.1,6.6,0.7,0.2,11.6,1
+Software Engineering,Ariel University,9.5,1.9,7.9,5.7,24.9,1
+Industrial Engineering and Management,Ariel University,9.9,2.3,0.5,2.3,15,1
+Education,Ariel University,4.7,0,1.2,7.6,13.5,1
+chemistry,Ariel University,0.4,7.5,9.7,2.7,20.2,1
+Economics specializing in accounting,Ariel University,2.7,2.2,2.3,3.1,10.3,1
+Economics specialization in business administration,Ariel University,8.3,6.5,1.4,1.1,17.2,1
+Middle Eastern studies,Ariel University,3.3,2.6,0.9,7.1,13.9,1
+State of Israel studies,Ariel University,4.1,2.3,4.8,1.9,13.2,1
+Humanities and social sciences - multidisciplinary,Ariel University,2.6,4.9,8.1,7.8,23.4,1
+Social sciences - multidisciplinary,Ariel University,8.9,6.4,0.5,9.5,25.3,1
+Humanities - multidisciplinary,Ariel University,0.8,9.9,8.3,4.3,23.2,1
+Hebrew language,Ariel University,2.6,5.8,6.2,2.1,16.7,1
+Geological and environmental sciences,Ariel University,9,3.6,0.5,8.9,22,1
+Behavioral Sciences,Ariel University,0.1,3.4,3.4,5.1,12,1
+Life science,Ariel University,3.4,8.8,2.6,6,20.8,1
+Computer Science,Ariel University,10,5.4,2.1,2.4,19.9,1
+Computer science and bioinformatics,Ariel University,8,4.8,5.5,0.4,18.7,1
+Medical Laboratory Sciences,Ariel University,2.5,6.4,8.2,1.7,18.8,1
+Judaism studies,Ariel University,7,4.4,5.4,6.6,23.4,1
+Bible and Ancient Middle East,Ariel University,0.5,7.1,6.1,2.5,16.1,1
+Mathematics,Ariel University,4.6,0.8,1.5,8.4,15.2,1
+Mathematics and computer science,Ariel University,1.6,7.3,4,6.5,19.3,1
+One-departmental management and entrepreneurship,Ariel University,4,9.1,1.1,2.4,16.6,1
+Bi-departmental management,Ariel University,0.4,9.6,7.1,4.5,21.6,1
+Hotel and tourism management,Ariel University,2.3,5.8,5.6,8,21.7,1
+Health Systems Management,Ariel University,4.8,3.1,0.1,7.9,16,1
+information system management,Ariel University,9.9,8.5,3.7,0.7,22.8,1
+Sociology Anthropology two departments,Ariel University,0.4,7.3,8.4,7.3,23.4,1
+Sociology Anthropology and Management,Ariel University,1.3,4.3,4.3,4.8,14.7,1
+Nursing,Ariel University,5.3,3.4,1.5,7.2,17.4,1
+Foreign literature and linguistics,Ariel University,6.2,2.7,5.4,9,23.4,1
+Hebrew literature,Ariel University,5.9,4.3,8.3,9.7,28.2,1
+social work,Ariel University,7.6,7.1,5,3.9,23.5,1
+Politics and Government,Ariel University,3,5.7,7.5,6.9,23,1
+physiotherapy,Ariel University,5.8,5.7,8.1,5.2,24.7,1
+philosophy,Ariel University,0.7,0.4,4.3,1.5,6.8,1
+physics,Ariel University,9,8.9,4.5,1.5,24,1
+Two-departmental psychology,Ariel University,4.4,9.2,5.3,1,19.8,1
+Psychology and Management,Ariel University,2.3,1.5,9,0.2,13,1
+pharmacy,Ariel University,7.4,4.1,0.2,2.1,13.8,1
+medicine,Ariel University,4.8,6.7,6.4,6.2,24.1,1
+emergency Medicine,Ariel University,9.9,9.7,6.2,6.6,32.3,1

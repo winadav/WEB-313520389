@@ -1,0 +1,35 @@
+doctype html
+link(rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css')
+head
+  meta(charset='UTF-8')
+  title Home Page
+  link(rel='stylesheet' href='CSS/HomePage.css')
+
+
+- var username;
+        
+.container
+  header#showcase
+    form
+      h1 Hey #{username}, Welcome To LearnWhere
+  .content
+    | Our site helps people find their next degree. You can find a lot of information about a particular degree,
+    br
+    |               start by clicking on what you want to find.
+
+  a#optionsBtn.btn(href='http://localhost:3000/MyProfilePage')
+    | My Profile 
+    i.fa.fa-user
+  a#searchBtn.btn(href='http://localhost:3000/DegreesSearchPage')
+    | Degree Search 
+    i.fa.fa-search
+  a#ranksBtn.btn(href='http://localhost:3000/RanksPage')
+    | Ranks 
+    i.fa.fa-star
+  br
+  a#privateBtn.btn(href='http://localhost:3000/LoginPage')
+    | Back to Login Page 
+    i.fa.fa-key
+  a#aboutBtn.btn(href='http://localhost:3000/AboutUsPage')
+    | About Us 
+    i.fa.fa-book

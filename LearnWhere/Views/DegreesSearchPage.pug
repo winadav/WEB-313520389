@@ -1,0 +1,80 @@
+doctype html
+link(rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css')
+head
+  meta(charset='UTF-8')
+  title Degrees Search Page
+  link(rel='stylesheet' href='CSS/DegreesSearchPage.css')
+  script.
+    var degreeList = !{JSON.stringify(degreeList)};
+    var institutionList = !{JSON.stringify(institutionList)};
+
+    
+  
+header
+  h1 Degree Search
+nav
+  img.logoImg(src='Graphics/logoPic1.png' alt='')
+  .icon-bar
+    a(href='http://localhost:3000/HomePage')
+      i.fa.fa-home
+    a.active(href='http://localhost:3000/DegreesSearchPage')
+      i.fa.fa-search
+    a(href='http://localhost:3000/RanksPage')
+      i.fa.fa-star
+    a(href='http://localhost:3000/MyProfilePage')
+      i.fa.fa-user
+    a(href='http://localhost:3000/AboutUsPage')
+      i.fa.fa-book
+    a(href='http://localhost:3000/LoginPage')
+      i.fa.fa-key
+content
+  
+  form#form1(action="/findUserSearch" method= 'post') 
+    label#labels Degree Type:
+    input#checkbox(type='radio' name='DegreeType' value='Bachelor' checked='checked') 
+    label(for='Bachelor') Bachelor
+    input#checkbox(type='radio' name='DegreeType' value='Master')
+    label(for='Master') Master
+    input#checkbox(type='radio' name='DegreeType' value='All')
+    label(for='All') All
+    br
+    br
+    label#labels(for='DegreeName') Degree Name:
+    select#DegreeName(name='DegreeName')
+     each i in degreeList.slice(1)
+      option= i.DegreeName 
+    br
+    br
+    label#labels(for='Institution') Institution:
+    select#Institution(name='Institution')
+     option(value='All') All
+     each n in institutionList.slice(1)
+       option= n.Institution 
+    br
+    br
+    label#labels(for='District') District:
+    select#District(name='District')
+      option(value='All') All
+      option(value='Center') Center
+      option(value='South') South
+      option(value='North') North
+      option(value='Jerusalem') Jerusalem
+    br
+    br
+    label#labels(for='PsychometricScore') Psychometric Score:
+    input#PsychometricScore(type='range' name='sliderValue' class='slider' value='550' min='400' max='800' oninput='num.value = this.value')
+    output#num 550
+    br
+    br
+    input#searchButton(type='submit'  value='Search' href= 'http://localhost:3000/DegreesWeFound.pug' )
+
+aside
+  img.pagePic(src='Graphics/degreeSearchPic.png' alt='')
+footer
+
+
+
+
+ 
+
+ 

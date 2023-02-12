@@ -1,0 +1,139 @@
+
+//- -var cookie
+//- -var userDetailsCookie = cookie[0].Current_user
+-var degreeList
+-var institutionList
+-var userDetails
+-var username
+-var email
+-var firstName
+-var lastName
+-var phoneNum
+//- each i in userDetails
+//-   -  username= i.Username 
+//-   -  email= i.Email 
+//-   -  password= i.Password 
+//-   -  firstName= i.FirstName 
+//-   -  lastName= i.LastName 
+//-   -  phoneNum= i.PhoneNumber
+
+doctype html
+link(rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css')
+head
+  meta(charset='UTF-8')
+  title Degrees Search Page
+  link(rel='stylesheet' href='CSS/MyProfilePage.css')
+  script(src='JavaScript/ShowPassword.js')
+
+
+
+
+header
+  h1 My Profile 
+nav
+  img.logoImg(src='Graphics/logoPic1.png' alt='')
+  .icon-bar
+    a(href='http://localhost:3000/HomePage')
+      i.fa.fa-home
+    a(href='http://localhost:3000/DegreesSearchPage')
+      i.fa.fa-search
+    a(href='http://localhost:3000/RanksPage')
+      i.fa.fa-star
+    a.active(href='http://localhost:3000/MyProfilePage')
+      i.fa.fa-user
+    a(href='http://localhost:3000/AboutUsPage')
+      i.fa.fa-book
+    a(href='http://localhost:3000/LoginPage')
+      i.fa.fa-key
+
+content
+ #content1
+    h2 Your Details
+    form#form1(action="/updateUser" method= 'post' onsubmit='submitForm(event)') 
+      label#labels2(for='Username') Username:
+      input#Username(type='text' name='Username' value=username readonly)
+      br
+      br
+      label#labels2(for='Email') Email:
+      input#Email(type='email' name='Email'  value=email readonly)
+      br
+      br
+      label#labelPassword(for='Password') Password:
+      input#Password(type='password' name='Password' value=password minLength='5' maxLength='15' required)
+      input#showPass(type="checkbox" name='showPass' onclick="showPassword()" style=' cursor: pointer;') 
+      label#show(for='showPass') Show
+      br
+      br
+      label#labels2(for='FirstName') First Name:
+      input#FirstName(type='text' name='FirstName' value=firstName maxLength='12'  pattern = "[A-Za-z]+" title= "Please use only letters")
+      br
+      br
+      label#labels2(for='LastName') Last Name:
+      input#LastName(type='text' name='LastName' value=lastName maxLength='12' pattern = "[A-Za-z]+" title= "Please use only letters" )
+      br
+      br
+      label#labels2(for='PhoneNumber') Phone Number:
+      input#PhoneNum(type='text' name='PhoneNumber' value=phoneNum pattern="0[5][054|057|050|052][0-9]{7}" title="Please use valid israeli phone number (05N+7digits)")
+      br
+      br
+      input#searchButton(type='submit'  value='Update') 
+
+ #content2
+    
+     h2 Rank Degree
+     form#form2(action="/updateRanks" method= 'post' onsubmit='submitForm2(event)') 
+         label#labels(for='DegreeName') Degree:
+         select#DegreeName(name='DegreeName')
+             each i in degreeList.slice(1)
+                 option= i.DegreeName 
+         br
+         br
+         label#labels(for='Institution') Institution:
+         select#Institution(name='Institution')
+             each n in institutionList.slice(1)
+                 option= n.Institution   
+         br
+         br
+         br
+         label#labels1(for='Prestige') Prestige Rate:
+         input#Prestige(type='range' name='sliderValuePrestige' class='slider' value='5' min='0' max='10' oninput='num1.value = this.value')
+         output#num1 5
+         br
+         br
+         label#labels1(for='Lecturers') Lecturers Rate:
+         input#Lecturers(type='range' name='sliderValueLecturers' class='slider' value='5' min='0' max='10' oninput='num2.value = this.value')
+         output#num2 5
+         br
+         br
+         label#labels1(for='Satisfaction') Satisfaction Rate:
+         input#Satisfaction(type='range' name='sliderValueSatisfaction' class='slider' value='5' min='0' max='10' oninput='num3.value = this.value')
+         output#num3 5
+         br
+         br
+         label#labels1(for='Social') Social Rate:
+         input#Social(type='range' name='sliderValueSocial' class='slider' value='5' min='0' max='10' oninput='num4.value = this.value')
+         output#num4 5
+         br
+         br
+         input#searchButton(type='submit'  value='Send Rank')
+  
+aside
+  
+footer
+
+script.
+  function submitForm(event) {
+    event.preventDefault();
+    alert('Your new details has been submitted!  Returning to Home Page..');
+    this.document.getElementById("form1").submit();
+  }
+  function submitForm2(event) {
+    event.preventDefault();
+    alert('Your new rank has been submitted!  Returning to Home Page..');
+    this.document.getElementById("form2").submit();
+  }  
+
+
+
+
+

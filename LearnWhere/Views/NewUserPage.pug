@@ -1,0 +1,63 @@
+
+-var password;
+-var firstName;
+-var lastName;
+-var phoneNum;
+
+doctype html
+link(rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css')
+head
+  meta(charset='UTF-8')
+  title Create A New User
+  link(rel='stylesheet' href='CSS/NewUserPage.css')
+  script(src='JavaScript/ShowPassword.js')
+  script.
+    var message = "";
+br
+header
+  h1 Create a User
+nav
+  #logoImg
+    img(src='Graphics/logoPic1.png' alt='' )
+content 
+ #content1
+  br
+  label#message(for="message" ) #{message}
+  form#form1(action="/SignUp" method='post' )    
+      label#labels2(for='Username') Username*:
+      input#Username(type='text' name='Username' required)
+      br
+      br
+      label#labels2(for='Email') Email*:
+      input#Email(type='email' name='Email' pattern = "[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$" title = "Please Following the pattern: 'XXXXX@XXXX.XXX'" required)
+      br
+      br
+      label#labelPassword(for='Password') Password*:
+      input#Password(type='password' name='Password' value=password  minLength='5' maxLength='15' required)
+      input#showPass(type="checkbox" name='showPass' onclick="showPassword()" style=' cursor: pointer;') 
+      label#show(for='showPass') Show
+      br
+      br
+      label#labels2(for='FirstName') First Name:
+      input#FirstName(type='text' name='FirstName' value=firstName maxLength='12'  pattern = "[A-Za-z]+" title= "Please use only letters")
+      br
+      br
+      label#labels2(for='LastName') Last Name:
+      input#LastName(type='text' name='LastName' value=lastName maxLength='12' pattern = "[A-Za-z]+" title= "Please use only letters" )
+      br
+      br
+      label#labels2(for='PhoneNumber') Phone Number:
+      input#PhoneNum(type='text' name='PhoneNumber' value=phoneNum  pattern="0[5][054|057|050|052][0-9]{7}" title="Please use valid israeli phone number (05N+7digits)")
+      br
+      br
+      a(href='http://localhost:3000/LoginPage')
+         input#createButton(type='button' value='Back To Login Page') 
+      input#loginButton(type='submit' value='Create User')
+
+aside
+  #UserImage
+    img(src='Graphics/createUserPic.png' alt='Student Cap Pic')
+  #text
+    sup *
+    | Mandatory Field
+

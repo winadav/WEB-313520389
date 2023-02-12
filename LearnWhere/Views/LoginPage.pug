@@ -1,0 +1,42 @@
+doctype html
+head
+  meta(charset='UTF-8')
+  meta(name="viewport" )
+  meta(name='description' content='This website help people to find academic degree')
+  title LearnWhere
+  link(rel='stylesheet' href='CSS/LoginPage.css')
+  script.
+    var message = "Please fill your username and password";
+    var username =''
+    
+#headers
+  div
+    h1 LearnWhere
+  div
+    h3 Let&apos;s Find Your Degree Today!
+  div 
+#middle-section
+  form#form1(action='/findUser' method='post')
+      br
+      label#message(for="message") #{message} 
+      br
+      br
+      label#userLabel(for='Username') Username:
+      input#Username(type='text' name='Username' value=username required)
+      br
+      br
+      br
+      label#passLabel(for='Password') Password:
+      input#Password(type='password' name='Password' required)
+      br
+      br
+      br
+      a(href='http://localhost:3000/NewUserPage')
+         input#createButton(type='button' value='Create New Account') 
+      input#loginButton(type='submit' value='Login')
+
+
+
+
+
+  
